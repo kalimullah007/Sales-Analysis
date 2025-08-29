@@ -1,0 +1,1001 @@
+Order ID,Region,Amount,Profit,Quantity, Unit_Price , Unit_Cost ,Category,Sub-Category,PaymentMode,Order Date,CustomerName,State,City,Month,Revenue
+B-26776,North,9726,1275,5,267.22,152.75,Electronics,Electronic Games,UPI,27-06-2023,David Padilla,Florida,Miami,June,1336.1
+B-26776,West,9726,1275,5,"4,209.44","3,816.39",Electronics,Electronic Games,UPI,27-12-2024,Connor Morgan,Illinois,Chicago,December,21047.2
+B-26776,South,9726,1275,5,371.4,261.56,Electronics,Electronic Games,UPI,25-07-2021,Robert Stone,New York,Buffalo,July,1857
+B-26776,South,4975,1330,14,"4,467.75","4,330.03",Electronics,Printers,UPI,27-06-2023,David Padilla,Florida,Miami,June,62548.5
+B-26776,East,4975,1330,14,692.71,637.37,Electronics,Printers,UPI,27-12-2024,Connor Morgan,Illinois,Chicago,December,9697.94
+B-26776,West,4975,1330,14,"1,106.51",900.79,Electronics,Printers,UPI,25-07-2021,Robert Stone,New York,Buffalo,July,15491.14
+B-26942,West,1525,185,12,"2,624.09","2,408.81",Office Supplies,Pens,Debit Card,11-05-2024,John Fields,Florida,Orlando,May,31489.08
+B-26942,South,1525,185,12,"3,964.65","3,702.51",Office Supplies,Pens,Debit Card,09-10-2021,Clayton Smith,Florida,Miami,October,47575.8
+B-26640,South,883,117,10,"1,095.45",738.06,Electronics,Laptops,EMI,18-11-2022,Richard Kelley,California,Los Angeles,November,10954.5
+B-26640,West,8127,3551,16,"2,682.34","2,228.35",Furniture,Tables,Credit Card,18-11-2022,Richard Kelley,California,Los Angeles,November,42917.44
+B-25890,North,2516,734,19,"2,517.60","2,440.11",Furniture,Chairs,UPI,12-11-2023,Jacqueline Hubbard,New York,New York City,November,47834.4
+B-25102,West,2975,462,14,"1,137.44","1,100.81",Office Supplies,Pens,Credit Card,23-03-2020,Jessica Anderson,New York,New York City,March,15924.16
+B-25426,West,6851,2812,1,641.09,622.01,Office Supplies,Markers,Debit Card,04-05-2020,Mary Taylor,Florida,Orlando,May,641.09
+B-25426,South,7626,1046,15,"4,270.65","4,190.28",Furniture,Sofas,Credit Card,04-05-2020,Mary Taylor,Florida,Orlando,May,64059.75
+B-25426,South,1023,78,9,"2,869.60","2,537.20",Furniture,Tables,UPI,04-05-2020,Mary Taylor,Florida,Orlando,May,25826.4
+B-25238,North,7600,1098,10,487.65,121.19,Office Supplies,Pens,UPI,09-11-2023,Walter Crawford,Illinois,Springfield,November,4876.5
+B-25238,North,7501,262,18,"4,420.15","4,024.76",Office Supplies,Paper,COD,09-11-2023,Walter Crawford,Illinois,Springfield,November,79562.7
+B-25051,East,725,133,6,"5,034.35","4,904.93",Office Supplies,Paper,Credit Card,30-12-2024,Lawrence Robinson,New York,Rochester,December,30206.1
+B-25051,West,7201,2685,2,"3,209.22","3,049.33",Furniture,Tables,Credit Card,30-12-2024,Lawrence Robinson,New York,Rochester,December,6418.44
+B-26510,South,1629,265,1,"2,790.10","2,543.36",Office Supplies,Paper,UPI,11-02-2025,Douglas Pennington,Texas,Dallas,February,2790.1
+B-26510,North,1629,265,1,"4,439.12","4,398.16",Office Supplies,Paper,UPI,23-01-2024,Ricardo Andrews,California,San Diego,January,4439.12
+B-25104,East,8971,2971,19,"5,074.42","4,764.96",Office Supplies,Binders,Debit Card,28-11-2020,Paul Raymond,California,San Diego,November,96413.98
+B-25104,East,2939,894,20,"4,276.99","3,784.96",Office Supplies,Binders,COD,28-11-2020,Paul Raymond,California,San Diego,November,85539.8
+B-25553,South,9380,414,11,"2,441.79","2,254.99",Electronics,Phones,UPI,30-05-2024,Karen Johnson,New York,Rochester,May,26859.69
+B-25553,South,8558,1644,18,"3,360.40","2,981.50",Office Supplies,Binders,Credit Card,30-05-2024,Karen Johnson,New York,Rochester,May,60487.2
+B-25553,East,4080,72,17,"3,774.65","3,519.63",Office Supplies,Paper,COD,30-05-2024,Karen Johnson,New York,Rochester,May,64169.05
+B-26703,North,4206,1821,17,"1,084.28","1,011.65",Electronics,Electronic Games,EMI,23-01-2022,Juan Erickson,Texas,Austin,January,18432.76
+B-26232,East,5219,1180,20,"2,558.95","2,263.65",Office Supplies,Binders,COD,17-12-2021,Alexander Reed,New York,New York City,December,51179
+B-26232,West,5219,1180,20,"4,314.56","4,157.62",Office Supplies,Binders,COD,03-02-2023,Jacqueline Harris,California,San Francisco,February,86291.2
+B-25394,West,3686,760,20,"3,317.75","3,290.89",Office Supplies,Pens,Debit Card,30-10-2022,Tyler Park,California,San Francisco,October,66355
+B-25394,South,3686,760,20,"2,406.58","2,085.46",Office Supplies,Pens,Debit Card,15-01-2022,Richard Wolfe,Ohio,Columbus,January,48131.6
+B-26157,North,6045,1606,4,"3,764.52","3,333.64",Office Supplies,Paper,COD,14-12-2023,Sierra Rios,Florida,Orlando,December,15058.08
+B-26157,North,9337,554,11,814.14,635.2,Office Supplies,Pens,COD,14-12-2023,Sierra Rios,Florida,Orlando,December,8955.54
+B-25555,West,4051,1848,12,"2,238.65","2,037.41",Electronics,Phones,Credit Card,03-07-2023,Jessica Richardson,California,San Diego,July,26863.8
+B-25555,East,4051,1848,12,"4,422.59","3,975.99",Electronics,Phones,Credit Card,08-05-2021,Kimberly Warren,Ohio,Cincinnati,May,53071.08
+B-25555,South,5011,866,11,"1,550.19","1,141.52",Furniture,Bookcases,Credit Card,03-07-2023,Jessica Richardson,California,San Diego,July,17052.09
+B-25555,East,5011,866,11,"1,330.84",970.51,Furniture,Bookcases,Credit Card,08-05-2021,Kimberly Warren,Ohio,Cincinnati,May,14639.24
+B-26139,East,3958,630,15,"4,888.46","4,756.55",Furniture,Sofas,EMI,07-10-2022,Casey Garcia,Florida,Orlando,October,73326.9
+B-26139,East,3132,963,1,"1,545.00","1,088.99",Furniture,Tables,Debit Card,07-10-2022,Casey Garcia,Florida,Orlando,October,1545
+B-25032,North,7784,2937,12,"1,427.21","1,341.55",Office Supplies,Markers,UPI,06-08-2024,Denise Hampton,California,San Francisco,August,17126.52
+B-25032,West,5591,1696,3,"5,166.72","4,849.60",Office Supplies,Pens,COD,06-08-2024,Denise Hampton,California,San Francisco,August,15500.16
+B-25032,North,5122,2413,12,"3,710.92","3,686.81",Electronics,Electronic Games,COD,06-08-2024,Denise Hampton,California,San Francisco,August,44531.04
+B-25730,West,8293,2632,8,"3,838.42","3,513.00",Office Supplies,Binders,COD,05-01-2022,Justin Rodriguez,Ohio,Cleveland,January,30707.36
+B-25730,South,8293,2632,8,"4,417.79","4,271.99",Office Supplies,Binders,COD,17-10-2020,Ms. Emily Baxter,New York,Rochester,October,35342.32
+B-25730,South,8293,2632,8,853.66,623.32,Office Supplies,Binders,COD,21-08-2023,Austin White,California,Los Angeles,August,6829.28
+B-25730,East,2863,205,17,"3,723.66","3,544.48",Electronics,Phones,UPI,05-01-2022,Justin Rodriguez,Ohio,Cleveland,January,63302.22
+B-25730,West,2863,205,17,"2,637.91","2,543.26",Electronics,Phones,UPI,17-10-2020,Ms. Emily Baxter,New York,Rochester,October,44844.47
+B-25730,West,2863,205,17,"4,469.07","4,154.30",Electronics,Phones,UPI,21-08-2023,Austin White,California,Los Angeles,August,75974.19
+B-26470,West,3090,573,6,"3,007.47","2,565.30",Furniture,Tables,EMI,27-12-2024,Morgan Montes,California,San Diego,December,18044.82
+B-26470,East,3090,573,6,"3,600.14","3,120.19",Furniture,Tables,EMI,18-06-2021,Christine Mosley,Ohio,Cincinnati,June,21600.84
+B-26470,East,3090,573,6,"2,519.07","2,414.82",Furniture,Tables,EMI,27-05-2023,Ashley Rodriguez,Texas,Austin,May,15114.42
+B-26470,South,3090,573,6,"2,778.40","2,416.89",Furniture,Tables,EMI,12-10-2021,Elizabeth King,Texas,Dallas,October,16670.4
+B-26470,North,9683,1014,5,"4,186.98","3,851.45",Electronics,Printers,UPI,27-12-2024,Morgan Montes,California,San Diego,December,20934.9
+B-26470,West,9683,1014,5,"3,339.66","3,161.40",Electronics,Printers,UPI,18-06-2021,Christine Mosley,Ohio,Cincinnati,June,16698.3
+B-26470,West,9683,1014,5,"3,204.01","3,184.65",Electronics,Printers,UPI,27-05-2023,Ashley Rodriguez,Texas,Austin,May,16020.05
+B-26470,North,9683,1014,5,"2,626.90","2,278.90",Electronics,Printers,UPI,12-10-2021,Elizabeth King,Texas,Dallas,October,13134.5
+B-25988,West,2463,648,18,"3,152.28","2,678.99",Furniture,Tables,EMI,19-09-2022,Connie Holmes,Ohio,Cincinnati,September,56741.04
+B-25568,East,7811,1538,12,"4,061.04","3,741.30",Furniture,Sofas,COD,25-03-2022,Melissa Peck,Florida,Miami,March,48732.48
+B-26730,East,6139,451,10,"4,361.70","4,138.41",Furniture,Tables,Debit Card,26-02-2022,David Smith,Florida,Orlando,February,43617
+B-26730,West,6139,451,10,"3,765.31","3,497.98",Furniture,Tables,Debit Card,05-04-2021,Jacqueline Harris,Texas,Houston,April,37653.1
+B-26730,East,8636,3192,3,"4,731.98","4,624.16",Furniture,Chairs,COD,26-02-2022,David Smith,Florida,Orlando,February,14195.94
+B-26730,East,8636,3192,3,"4,488.37","4,110.60",Furniture,Chairs,COD,05-04-2021,Jacqueline Harris,Texas,Houston,April,13465.11
+B-26730,West,4439,1712,19,"3,206.98","2,831.23",Furniture,Sofas,Credit Card,26-02-2022,David Smith,Florida,Orlando,February,60932.62
+B-26730,South,4439,1712,19,"3,454.76","3,373.46",Furniture,Sofas,Credit Card,05-04-2021,Jacqueline Harris,Texas,Houston,April,65640.44
+B-25372,North,1016,172,20,"5,075.44","4,635.23",Furniture,Tables,Debit Card,16-11-2020,Heather Jenkins,New York,Buffalo,November,101508.8
+B-25372,East,5768,2059,14,"3,256.78","3,114.88",Furniture,Tables,UPI,16-11-2020,Heather Jenkins,New York,Buffalo,November,45594.92
+B-25372,South,1217,151,3,"4,624.10","4,132.79",Furniture,Tables,Credit Card,16-11-2020,Heather Jenkins,New York,Buffalo,November,13872.3
+B-26026,East,953,93,2,"3,657.23","3,459.61",Office Supplies,Paper,Debit Card,12-12-2024,Kelsey Castaneda,Ohio,Cleveland,December,7314.46
+B-26026,East,953,93,2,"2,879.24","2,782.08",Office Supplies,Paper,Debit Card,06-04-2023,Katherine Harris,California,Los Angeles,April,5758.48
+B-26026,North,7355,1034,3,"1,429.44","1,247.10",Furniture,Sofas,COD,12-12-2024,Kelsey Castaneda,Ohio,Cleveland,December,4288.32
+B-26026,East,7355,1034,3,"2,384.38","2,158.69",Furniture,Sofas,COD,06-04-2023,Katherine Harris,California,Los Angeles,April,7153.14
+B-26026,North,1843,248,3,"4,884.29","4,840.33",Electronics,Phones,Credit Card,12-12-2024,Kelsey Castaneda,Ohio,Cleveland,December,14652.87
+B-26026,North,1843,248,3,"3,599.27","3,305.94",Electronics,Phones,Credit Card,06-04-2023,Katherine Harris,California,Los Angeles,April,10797.81
+B-26026,North,1603,361,10,"3,146.60","2,843.76",Office Supplies,Pens,Debit Card,12-12-2024,Kelsey Castaneda,Ohio,Cleveland,December,31466
+B-26026,South,1603,361,10,"5,040.22","4,668.14",Office Supplies,Pens,Debit Card,06-04-2023,Katherine Harris,California,Los Angeles,April,50402.2
+B-25295,West,2025,528,1,"2,977.52","2,953.23",Office Supplies,Pens,Credit Card,28-01-2024,Paul Rogers,Florida,Miami,January,2977.52
+B-25295,South,6800,167,16,"2,929.32","2,654.11",Office Supplies,Binders,EMI,28-01-2024,Paul Rogers,Florida,Miami,January,46869.12
+B-26121,West,1126,55,1,"3,844.51","3,808.59",Furniture,Bookcases,UPI,16-01-2022,Jon Banks,Florida,Tampa,January,3844.51
+B-26121,West,1126,55,1,"3,931.25","3,577.69",Furniture,Bookcases,UPI,16-12-2022,Michelle Williams,New York,Buffalo,December,3931.25
+B-25560,North,7533,3508,12,"1,043.45","1,006.14",Furniture,Tables,UPI,13-07-2023,Andrew Allen,California,San Diego,July,12521.4
+B-25560,East,4734,1178,16,"2,839.73","2,382.98",Office Supplies,Binders,Credit Card,13-07-2023,Andrew Allen,California,San Diego,July,45435.68
+B-25560,North,4074,1175,6,"2,742.97","2,388.95",Electronics,Electronic Games,Debit Card,13-07-2023,Andrew Allen,California,San Diego,July,16457.82
+B-25560,East,2334,484,3,"2,180.83","1,922.21",Furniture,Sofas,Credit Card,13-07-2023,Andrew Allen,California,San Diego,July,6542.49
+B-26076,West,2750,1239,11,"2,836.94","2,610.60",Electronics,Phones,Debit Card,10-03-2025,Vanessa Bauer,New York,Buffalo,March,31206.34
+B-26076,North,2750,1239,11,"2,168.91","2,094.88",Electronics,Phones,Debit Card,24-09-2024,Sean Smith,Ohio,Cleveland,September,23858.01
+B-26076,East,8639,3104,19,"1,189.35","1,036.76",Office Supplies,Pens,EMI,10-03-2025,Vanessa Bauer,New York,Buffalo,March,22597.65
+B-26076,South,8639,3104,19,"2,527.00","2,091.21",Office Supplies,Pens,EMI,24-09-2024,Sean Smith,Ohio,Cleveland,September,48013
+B-25872,East,3808,1192,4,860.95,407.77,Office Supplies,Markers,UPI,13-04-2020,Shelly Sweeney,New York,New York City,April,3443.8
+B-25872,North,2588,705,16,"2,910.51","2,900.14",Office Supplies,Pens,Credit Card,13-04-2020,Shelly Sweeney,New York,New York City,April,46568.16
+B-26185,South,1591,727,5,"4,576.72","4,275.59",Electronics,Electronic Games,Credit Card,27-06-2022,Emily Gill,Illinois,Springfield,June,22883.6
+B-26185,East,1591,727,5,"4,002.63","3,640.17",Electronics,Electronic Games,Credit Card,14-03-2021,Brian Patrick,Florida,Tampa,March,20013.15
+B-26185,East,1591,727,5,"2,147.14","1,833.95",Electronics,Electronic Games,Credit Card,23-02-2022,Dr. Sarah Booth,Ohio,Cincinnati,February,10735.7
+B-26259,East,1757,622,10,531.02,481,Furniture,Chairs,UPI,29-03-2022,Douglas Mcfarland,Ohio,Cleveland,March,5310.2
+B-26259,East,1757,622,10,"1,167.33","1,050.64",Furniture,Chairs,UPI,20-11-2022,Kayla Ross,Illinois,Peoria,November,11673.3
+B-25142,East,6940,253,15,"2,882.85","2,750.18",Furniture,Bookcases,Debit Card,12-11-2021,Marc Strickland,Florida,Orlando,November,43242.75
+B-25142,South,5105,465,5,"1,492.48","1,074.93",Electronics,Printers,UPI,12-11-2021,Marc Strickland,Florida,Orlando,November,7462.4
+B-25326,West,5578,277,16,"2,979.64","2,742.67",Furniture,Tables,COD,17-08-2021,Charlene Brown,Florida,Miami,August,47674.24
+B-25326,South,5578,277,16,"1,444.97","1,196.42",Furniture,Tables,COD,16-05-2022,Charles Smith,Ohio,Columbus,May,23119.52
+B-26795,South,5224,1958,16,"4,720.27","4,252.17",Furniture,Chairs,Credit Card,16-07-2023,Karen Townsend,Texas,Houston,July,75524.32
+B-26795,South,5002,1801,11,"2,338.66","2,016.49",Office Supplies,Markers,Credit Card,16-07-2023,Karen Townsend,Texas,Houston,July,25725.26
+B-26795,West,7380,1673,18,"1,715.83","1,265.48",Office Supplies,Markers,COD,16-07-2023,Karen Townsend,Texas,Houston,July,30884.94
+B-25660,North,7595,2873,4,"4,304.70","4,071.01",Furniture,Chairs,Debit Card,18-08-2020,Steven Cox,California,Los Angeles,August,17218.8
+B-25660,West,7595,2873,4,"1,830.27","1,747.05",Furniture,Chairs,Debit Card,19-04-2022,Cynthia Rodriguez,New York,Rochester,April,7321.08
+B-25410,South,1954,294,7,"1,067.53",601.86,Furniture,Sofas,Debit Card,23-12-2022,Jessica Baker,Texas,Austin,December,7472.71
+B-25690,East,523,95,20,"3,108.30","2,873.53",Electronics,Printers,EMI,07-12-2024,Mark Blackburn,Texas,Dallas,December,62166
+B-26464,East,5704,714,13,"3,027.74","2,928.74",Electronics,Laptops,EMI,03-02-2022,Zachary Perez,Texas,Austin,February,39360.62
+B-26464,South,5704,714,13,"3,745.91","3,587.74",Electronics,Laptops,EMI,12-12-2021,Brian Green,California,San Diego,December,48696.83
+B-26464,East,8797,1010,8,"1,273.98","1,239.09",Furniture,Tables,UPI,03-02-2022,Zachary Perez,Texas,Austin,February,10191.84
+B-26464,South,8797,1010,8,"2,486.14","2,246.67",Furniture,Tables,UPI,12-12-2021,Brian Green,California,San Diego,December,19889.12
+B-26464,East,9236,2899,5,"1,875.75","1,447.72",Electronics,Laptops,Debit Card,03-02-2022,Zachary Perez,Texas,Austin,February,9378.75
+B-26464,West,9236,2899,5,918.17,450.72,Electronics,Laptops,Debit Card,12-12-2021,Brian Green,California,San Diego,December,4590.85
+B-26454,North,9109,586,17,"4,856.22","4,389.24",Furniture,Sofas,EMI,17-05-2020,Becky Leach,Florida,Miami,May,82555.74
+B-26742,North,4358,526,19,"3,729.27","3,657.91",Electronics,Phones,Credit Card,05-12-2022,Bryan Russell,Texas,Dallas,December,70856.13
+B-26742,West,4358,526,19,"1,739.45","1,542.24",Electronics,Phones,Credit Card,17-09-2024,Tony Maddox,California,San Francisco,September,33049.55
+B-26742,West,6459,825,8,"3,040.73","3,016.90",Electronics,Phones,Credit Card,05-12-2022,Bryan Russell,Texas,Dallas,December,24325.84
+B-26742,South,6459,825,8,"1,475.29","1,046.26",Electronics,Phones,Credit Card,17-09-2024,Tony Maddox,California,San Francisco,September,11802.32
+B-25510,South,2478,92,12,"4,642.46","4,456.67",Furniture,Bookcases,COD,08-05-2023,Jason Randolph,California,San Francisco,May,55709.52
+B-25510,South,2478,92,12,938.04,618.79,Furniture,Bookcases,COD,03-03-2021,Laura Andrews,New York,New York City,March,11256.48
+B-25510,East,2478,92,12,429.29,68.99,Furniture,Bookcases,COD,18-03-2021,Mrs. Stephanie Hooper,California,San Francisco,March,5151.48
+B-25510,South,2478,92,12,"2,755.56","2,534.94",Furniture,Bookcases,COD,24-04-2023,Anthony Evans,Ohio,Cleveland,April,33066.72
+B-25936,West,9992,3696,20,"3,096.64","2,936.48",Office Supplies,Pens,Debit Card,09-10-2021,Patrick Williams,New York,Rochester,October,61932.8
+B-25936,North,9992,3696,20,"3,397.36","2,915.88",Office Supplies,Pens,Debit Card,15-04-2022,Susan Burke,Texas,Austin,April,67947.2
+B-25936,East,9992,3696,20,802.43,319.83,Office Supplies,Pens,Debit Card,29-08-2022,Brent Hernandez,New York,Rochester,August,16048.6
+B-25936,South,9619,3420,7,"1,756.34","1,604.52",Office Supplies,Binders,UPI,09-10-2021,Patrick Williams,New York,Rochester,October,12294.38
+B-25936,East,9619,3420,7,"2,766.05","2,521.03",Office Supplies,Binders,UPI,15-04-2022,Susan Burke,Texas,Austin,April,19362.35
+B-25936,East,9619,3420,7,"1,608.76","1,122.07",Office Supplies,Binders,UPI,29-08-2022,Brent Hernandez,New York,Rochester,August,11261.32
+B-25884,South,9538,3158,20,"4,381.89","4,369.50",Electronics,Printers,Credit Card,04-09-2024,Sean Elliott,California,San Francisco,September,87637.8
+B-25884,East,9538,3158,20,693.4,481.19,Electronics,Printers,Credit Card,18-05-2021,Wanda West,Ohio,Cleveland,May,13868
+B-25884,North,9035,1227,14,"2,521.77","2,462.55",Furniture,Chairs,EMI,04-09-2024,Sean Elliott,California,San Francisco,September,35304.78
+B-25884,West,9035,1227,14,"3,732.00","3,472.51",Furniture,Chairs,EMI,18-05-2021,Wanda West,Ohio,Cleveland,May,52248
+B-26287,West,2684,670,2,"1,367.76","1,345.67",Office Supplies,Paper,COD,02-07-2024,Renee Solomon,Florida,Tampa,July,2735.52
+B-26287,North,822,147,5,"3,349.37","3,139.99",Furniture,Sofas,Credit Card,02-07-2024,Renee Solomon,Florida,Tampa,July,16746.85
+B-26287,East,9730,2341,2,"4,273.60","4,155.46",Furniture,Chairs,EMI,02-07-2024,Renee Solomon,Florida,Tampa,July,8547.2
+B-26287,South,2483,236,2,"1,263.49",992.17,Electronics,Electronic Games,COD,02-07-2024,Renee Solomon,Florida,Tampa,July,2526.98
+B-26564,East,1297,600,7,"5,088.28","4,590.24",Office Supplies,Binders,Credit Card,16-02-2024,Daryl Miles,Florida,Orlando,February,35617.96
+B-26564,North,7909,1942,19,"3,192.37","2,790.11",Electronics,Phones,COD,16-02-2024,Daryl Miles,Florida,Orlando,February,60655.03
+B-26293,East,9768,4518,8,"1,955.56","1,531.20",Furniture,Tables,Credit Card,26-11-2021,Michael Hunt,Texas,Dallas,November,15644.48
+B-26293,West,4968,934,5,"2,504.03","2,182.75",Furniture,Sofas,Debit Card,26-11-2021,Michael Hunt,Texas,Dallas,November,12520.15
+B-26293,East,1731,149,4,"1,625.71","1,595.35",Electronics,Laptops,EMI,26-11-2021,Michael Hunt,Texas,Dallas,November,6502.84
+B-25915,North,3433,1169,10,"3,750.63","3,639.30",Office Supplies,Binders,COD,01-02-2024,Adam Clark,California,San Francisco,February,37506.3
+B-25915,West,3433,1169,10,"4,454.97","3,991.69",Office Supplies,Binders,COD,09-09-2021,Amy Olsen,Illinois,Springfield,September,44549.7
+B-25915,East,3433,1169,10,"4,362.44","4,173.04",Office Supplies,Binders,COD,08-09-2021,Stacey Miller,California,San Diego,September,43624.4
+B-25915,East,3887,1490,1,"4,990.33","4,929.55",Office Supplies,Binders,Debit Card,01-02-2024,Adam Clark,California,San Francisco,February,4990.33
+B-25915,West,3887,1490,1,"4,321.04","3,966.86",Office Supplies,Binders,Debit Card,09-09-2021,Amy Olsen,Illinois,Springfield,September,4321.04
+B-25915,South,3887,1490,1,"3,183.58","3,026.85",Office Supplies,Binders,Debit Card,08-09-2021,Stacey Miller,California,San Diego,September,3183.58
+B-26496,West,1801,641,20,"1,870.88","1,729.14",Office Supplies,Markers,Credit Card,09-07-2024,Daniel Mosley,California,Los Angeles,July,37417.6
+B-26496,South,5301,817,10,"3,244.76","2,745.75",Furniture,Tables,Debit Card,09-07-2024,Daniel Mosley,California,Los Angeles,July,32447.6
+B-26496,North,1166,520,12,683.78,253.29,Office Supplies,Paper,Debit Card,09-07-2024,Daniel Mosley,California,Los Angeles,July,8205.36
+B-26496,North,3196,1411,15,"3,946.77","3,736.88",Office Supplies,Paper,Debit Card,09-07-2024,Daniel Mosley,California,Los Angeles,July,59201.55
+B-25856,West,3428,350,1,"2,747.81","2,257.48",Furniture,Chairs,Credit Card,28-02-2023,Monica Gibson,Illinois,Springfield,February,2747.81
+B-25856,West,7223,2433,12,477.67,149.11,Office Supplies,Binders,Credit Card,28-02-2023,Monica Gibson,Illinois,Springfield,February,5732.04
+B-25856,North,3731,647,1,733,359.41,Office Supplies,Pens,Credit Card,28-02-2023,Monica Gibson,Illinois,Springfield,February,733
+B-26899,South,8903,4401,18,"1,993.40","1,967.96",Office Supplies,Pens,Credit Card,08-08-2022,Christopher Jordan,Ohio,Columbus,August,35881.2
+B-25916,North,6009,2107,7,"3,007.53","2,937.94",Electronics,Phones,UPI,07-12-2022,Christina Davis,Illinois,Chicago,December,21052.71
+B-25916,West,6009,2107,7,"2,668.02","2,347.81",Electronics,Phones,UPI,29-04-2024,Claudia Curry,Texas,Austin,April,18676.14
+B-25916,North,2858,230,3,"3,565.58","3,115.06",Furniture,Tables,Credit Card,07-12-2022,Christina Davis,Illinois,Chicago,December,10696.74
+B-25916,West,2858,230,3,"2,743.09","2,427.46",Furniture,Tables,Credit Card,29-04-2024,Claudia Curry,Texas,Austin,April,8229.27
+B-25916,West,8175,525,7,"3,401.10","3,325.43",Furniture,Sofas,Credit Card,07-12-2022,Christina Davis,Illinois,Chicago,December,23807.7
+B-25916,North,8175,525,7,"1,201.39","1,134.67",Furniture,Sofas,Credit Card,29-04-2024,Claudia Curry,Texas,Austin,April,8409.73
+B-25916,South,5846,586,18,"1,032.22",608.57,Furniture,Sofas,UPI,07-12-2022,Christina Davis,Illinois,Chicago,December,18579.96
+B-25916,East,5846,586,18,"3,080.61","3,002.35",Furniture,Sofas,UPI,29-04-2024,Claudia Curry,Texas,Austin,April,55450.98
+B-26428,North,706,197,11,"2,714.12","2,449.21",Electronics,Laptops,Credit Card,02-01-2022,Brandon Anderson,Texas,Austin,January,29855.32
+B-26332,East,9835,2571,16,211.18,182.99,Furniture,Tables,COD,10-06-2022,George Foster,Texas,Dallas,June,3378.88
+B-26332,North,9835,2571,16,"1,982.92","1,933.39",Furniture,Tables,COD,16-11-2021,Nicholas Anderson,Florida,Orlando,November,31726.72
+B-26332,East,9835,2571,16,914.77,575.32,Furniture,Tables,COD,17-08-2022,Emily Ellison,California,Los Angeles,August,14636.32
+B-26332,South,9691,3056,13,"3,027.92","2,680.22",Office Supplies,Markers,Credit Card,10-06-2022,George Foster,Texas,Dallas,June,39362.96
+B-26332,South,9691,3056,13,"2,186.42","2,009.10",Office Supplies,Markers,Credit Card,16-11-2021,Nicholas Anderson,Florida,Orlando,November,28423.46
+B-26332,North,9691,3056,13,"3,200.75","3,085.10",Office Supplies,Markers,Credit Card,17-08-2022,Emily Ellison,California,Los Angeles,August,41609.75
+B-26332,West,7826,1221,14,"4,446.45","4,037.73",Furniture,Bookcases,UPI,10-06-2022,George Foster,Texas,Dallas,June,62250.3
+B-26332,East,7826,1221,14,"1,649.74","1,533.36",Furniture,Bookcases,UPI,16-11-2021,Nicholas Anderson,Florida,Orlando,November,23096.36
+B-26332,West,7826,1221,14,"5,088.00","4,812.41",Furniture,Bookcases,UPI,17-08-2022,Emily Ellison,California,Los Angeles,August,71232
+B-25303,West,770,241,11,"3,185.81","2,701.39",Furniture,Sofas,COD,23-11-2021,Darren Perez,Texas,Austin,November,35043.91
+B-25303,West,770,241,11,"3,192.99","3,110.54",Furniture,Sofas,COD,04-03-2023,Michelle Hunter,Ohio,Cincinnati,March,35122.89
+B-26507,South,9895,1598,20,"3,890.36","3,419.33",Furniture,Bookcases,COD,16-12-2023,Janet Guerrero,New York,Rochester,December,77807.2
+B-25983,North,6517,1581,10,"3,449.94","3,350.32",Office Supplies,Paper,Debit Card,19-05-2024,Jeffrey Kline,Florida,Miami,May,34499.4
+B-25983,North,6517,1581,10,"2,867.36","2,579.31",Office Supplies,Paper,Debit Card,14-05-2020,Ryan Bullock,Florida,Tampa,May,28673.6
+B-25983,South,1166,349,11,"2,367.11","2,172.38",Furniture,Tables,Credit Card,19-05-2024,Jeffrey Kline,Florida,Miami,May,26038.21
+B-25983,South,1166,349,11,799.04,316.22,Furniture,Tables,Credit Card,14-05-2020,Ryan Bullock,Florida,Tampa,May,8789.44
+B-25156,North,9820,793,16,303.36,159.32,Furniture,Chairs,Credit Card,29-08-2021,Tom Lawson,New York,Buffalo,August,4853.76
+B-26759,West,8563,2624,8,"2,027.74","1,821.91",Office Supplies,Binders,COD,10-11-2024,Rebecca Smith,Texas,Dallas,November,16221.92
+B-26759,East,4441,281,20,"2,193.22","1,701.62",Electronics,Printers,COD,10-11-2024,Rebecca Smith,Texas,Dallas,November,43864.4
+B-26244,East,7340,2271,8,"2,241.96","1,969.09",Office Supplies,Paper,EMI,05-12-2021,William Welch,Florida,Orlando,December,17935.68
+B-26244,East,5442,1610,1,991.21,734.92,Electronics,Phones,EMI,05-12-2021,William Welch,Florida,Orlando,December,991.21
+B-26365,West,1895,391,14,"3,840.24","3,703.93",Furniture,Tables,UPI,05-07-2024,Mr. Curtis Bailey,Florida,Tampa,July,53763.36
+B-26365,North,5323,322,13,"4,645.64","4,291.97",Office Supplies,Binders,COD,05-07-2024,Mr. Curtis Bailey,Florida,Tampa,July,60393.32
+B-26212,South,8850,279,13,"4,713.68","4,696.64",Office Supplies,Markers,Debit Card,25-06-2024,Janet Carlson,Florida,Miami,June,61277.84
+B-26212,North,8667,1266,6,"2,521.45","2,487.19",Office Supplies,Paper,Debit Card,25-06-2024,Janet Carlson,Florida,Miami,June,15128.7
+B-25042,West,6903,105,1,"3,822.98","3,519.29",Furniture,Tables,COD,31-05-2024,Spencer Spears,Illinois,Chicago,May,3822.98
+B-25042,South,8793,3010,7,"4,462.40","4,284.98",Office Supplies,Pens,COD,31-05-2024,Spencer Spears,Illinois,Chicago,May,31236.8
+B-25901,West,9883,4812,16,"2,597.67","2,120.54",Office Supplies,Paper,UPI,20-10-2020,Jeffrey Middleton,New York,Buffalo,October,41562.72
+B-25901,East,9883,4812,16,"2,034.15","1,581.59",Office Supplies,Paper,UPI,11-08-2022,Veronica Kelley,Florida,Orlando,August,32546.4
+B-25901,East,9883,4812,16,"5,046.51","4,686.79",Office Supplies,Paper,UPI,17-10-2021,Leslie Bean,Illinois,Springfield,October,80744.16
+B-25901,West,5210,1185,7,"3,013.49","2,602.60",Office Supplies,Paper,UPI,20-10-2020,Jeffrey Middleton,New York,Buffalo,October,21094.43
+B-25901,South,5210,1185,7,"2,848.40","2,511.41",Office Supplies,Paper,UPI,11-08-2022,Veronica Kelley,Florida,Orlando,August,19938.8
+B-25901,South,5210,1185,7,"1,004.70",933.16,Office Supplies,Paper,UPI,17-10-2021,Leslie Bean,Illinois,Springfield,October,7032.9
+B-26747,North,3574,851,4,970.49,585.37,Electronics,Printers,Credit Card,23-02-2022,Amy Wilson,California,Los Angeles,February,3881.96
+B-26747,East,576,76,13,"4,331.42","4,218.43",Furniture,Sofas,UPI,23-02-2022,Amy Wilson,California,Los Angeles,February,56308.46
+B-26698,North,1860,457,13,"3,258.45","3,089.96",Electronics,Printers,EMI,20-09-2023,Susan Ramirez,Ohio,Cleveland,September,42359.85
+B-25841,North,782,374,8,"2,074.25","1,662.83",Office Supplies,Pens,EMI,19-01-2021,Jacob Meyer,Illinois,Peoria,January,16594
+B-25841,West,4371,1852,1,"1,271.99",999.09,Electronics,Laptops,UPI,19-01-2021,Jacob Meyer,Illinois,Peoria,January,1271.99
+B-26032,West,8346,1176,1,"3,231.08","2,799.71",Electronics,Phones,COD,21-08-2020,Scott Lewis,Texas,Houston,August,3231.08
+B-26032,North,8346,1176,1,"3,054.79","2,940.40",Electronics,Phones,COD,17-04-2023,Eric Griffith,Illinois,Chicago,April,3054.79
+B-26032,East,8346,1176,1,"1,382.43","1,074.62",Electronics,Phones,COD,24-12-2023,Anna Ferguson,California,San Francisco,December,1382.43
+B-26032,West,6218,1125,5,"4,315.52","4,264.46",Furniture,Tables,Debit Card,21-08-2020,Scott Lewis,Texas,Houston,August,21577.6
+B-26032,North,6218,1125,5,792.21,467.11,Furniture,Tables,Debit Card,17-04-2023,Eric Griffith,Illinois,Chicago,April,3961.05
+B-26032,North,6218,1125,5,"2,196.30","1,812.66",Furniture,Tables,Debit Card,24-12-2023,Anna Ferguson,California,San Francisco,December,10981.5
+B-26032,North,5167,253,14,"3,714.52","3,417.90",Electronics,Printers,Credit Card,21-08-2020,Scott Lewis,Texas,Houston,August,52003.28
+B-26032,North,5167,253,14,"1,547.35","1,406.90",Electronics,Printers,Credit Card,17-04-2023,Eric Griffith,Illinois,Chicago,April,21662.9
+B-26032,North,5167,253,14,"4,172.35","4,146.99",Electronics,Printers,Credit Card,24-12-2023,Anna Ferguson,California,San Francisco,December,58412.9
+B-26032,North,2799,1239,5,"3,780.88","3,712.35",Furniture,Sofas,Debit Card,21-08-2020,Scott Lewis,Texas,Houston,August,18904.4
+B-26032,West,2799,1239,5,"4,270.59","3,955.66",Furniture,Sofas,Debit Card,17-04-2023,Eric Griffith,Illinois,Chicago,April,21352.95
+B-26032,East,2799,1239,5,"1,107.45",639.58,Furniture,Sofas,Debit Card,24-12-2023,Anna Ferguson,California,San Francisco,December,5537.25
+B-25171,North,3234,1029,20,856.91,745.71,Office Supplies,Markers,Credit Card,20-03-2022,David Figueroa,Florida,Miami,March,17138.2
+B-26939,South,4920,775,12,"1,838.21","1,468.05",Furniture,Tables,Debit Card,12-08-2021,Theresa Medina,Illinois,Springfield,August,22058.52
+B-26939,West,9078,2213,15,"3,049.04","2,614.48",Furniture,Bookcases,EMI,12-08-2021,Theresa Medina,Illinois,Springfield,August,45735.6
+B-26347,West,8586,3826,7,"4,017.91","3,752.68",Furniture,Bookcases,UPI,21-12-2020,Mary Smith,Florida,Miami,December,28125.37
+B-26347,North,8586,3826,7,"4,528.77","4,190.83",Furniture,Bookcases,UPI,07-07-2023,Lance Cain,Florida,Tampa,July,31701.39
+B-25388,West,5047,2211,13,"3,945.82","3,536.46",Furniture,Sofas,EMI,13-08-2023,Alexandra Moran,California,San Francisco,August,51295.66
+B-25388,North,5047,2211,13,"4,784.28","4,646.55",Furniture,Sofas,EMI,04-02-2021,Sara Castro,Illinois,Chicago,February,62195.64
+B-25388,East,5047,2211,13,"3,862.26","3,706.78",Furniture,Sofas,EMI,16-09-2022,Shawn Leach,Illinois,Peoria,September,50209.38
+B-25388,East,5047,2211,13,"1,576.34","1,566.03",Furniture,Sofas,EMI,06-05-2022,Mark Boyle,New York,Buffalo,May,20492.42
+B-26419,West,3657,163,1,"1,844.07","1,362.15",Furniture,Sofas,UPI,28-05-2021,John Stevens,California,San Francisco,May,1844.07
+B-25157,West,6471,2842,18,"3,955.75","3,496.15",Electronics,Electronic Games,UPI,18-07-2024,Lisa Graham,Illinois,Peoria,July,71203.5
+B-25342,South,949,301,9,"1,389.35","1,004.71",Office Supplies,Binders,UPI,06-12-2024,Nancy Jones,Ohio,Cleveland,December,12504.15
+B-25342,West,6823,771,6,557.69,508.94,Office Supplies,Binders,EMI,06-12-2024,Nancy Jones,Ohio,Cleveland,December,3346.14
+B-25342,South,4364,831,2,"2,913.78","2,684.50",Furniture,Tables,EMI,06-12-2024,Nancy Jones,Ohio,Cleveland,December,5827.56
+B-26165,East,6671,2797,10,"4,177.06","4,117.13",Electronics,Phones,UPI,12-12-2022,Darryl Robbins,Illinois,Peoria,December,41770.6
+B-26571,East,7472,1037,3,569.63,551.83,Office Supplies,Paper,COD,20-10-2022,Kimberly Smith,Illinois,Springfield,October,1708.89
+B-26571,North,9548,1806,9,"4,281.79","3,969.86",Electronics,Printers,COD,20-10-2022,Kimberly Smith,Illinois,Springfield,October,38536.11
+B-25400,East,7759,3741,17,"4,548.09","4,067.28",Electronics,Printers,UPI,24-03-2021,Maria Thomas,Florida,Miami,March,77317.53
+B-25400,South,7759,3741,17,"2,889.67","2,437.26",Electronics,Printers,UPI,06-01-2025,Nicholas Johnson,Texas,Dallas,January,49124.39
+B-25400,West,7521,3457,16,685.1,333.69,Office Supplies,Markers,Debit Card,24-03-2021,Maria Thomas,Florida,Miami,March,10961.6
+B-25400,North,7521,3457,16,971.57,914.22,Office Supplies,Markers,Debit Card,06-01-2025,Nicholas Johnson,Texas,Dallas,January,15545.12
+B-25885,South,9704,4339,12,"3,696.10","3,551.76",Office Supplies,Pens,COD,06-03-2021,Dawn Howard,Texas,Houston,March,44353.2
+B-25885,West,4948,2356,18,"3,740.13","3,573.30",Electronics,Printers,Debit Card,06-03-2021,Dawn Howard,Texas,Houston,March,67322.34
+B-25885,North,6435,334,10,"4,880.80","4,496.86",Electronics,Electronic Games,Debit Card,06-03-2021,Dawn Howard,Texas,Houston,March,48808
+B-25004,East,9965,3033,16,"3,337.40","2,934.30",Office Supplies,Markers,COD,17-06-2020,Jennifer Marshall,California,San Francisco,June,53398.4
+B-25004,South,9965,3033,16,863.03,664.33,Office Supplies,Markers,COD,01-09-2023,Frank Garcia,New York,Buffalo,September,13808.48
+B-26213,West,1523,234,3,865.76,651,Furniture,Sofas,UPI,08-06-2023,Terri Madden,New York,Rochester,June,2597.28
+B-26213,North,9073,424,7,"3,651.42","3,619.61",Electronics,Electronic Games,Debit Card,08-06-2023,Terri Madden,New York,Rochester,June,25559.94
+B-25025,North,6447,3079,20,"1,111.41",959.73,Electronics,Laptops,COD,25-03-2021,James Gutierrez,New York,Rochester,March,22228.2
+B-25025,East,8947,2807,6,"1,906.64","1,675.51",Electronics,Electronic Games,Credit Card,25-03-2021,James Gutierrez,New York,Rochester,March,11439.84
+B-26804,West,914,400,8,"2,529.02","2,461.70",Office Supplies,Pens,Debit Card,03-01-2021,Morgan Sellers,California,Los Angeles,January,20232.16
+B-26804,East,1548,666,3,404.69,172.59,Office Supplies,Paper,Credit Card,03-01-2021,Morgan Sellers,California,Los Angeles,January,1214.07
+B-26797,East,2759,1149,6,"1,709.71","1,281.65",Furniture,Tables,Credit Card,27-12-2024,Caitlin Thomas,New York,New York City,December,10258.26
+B-26556,West,1341,615,4,"2,363.90","2,069.05",Electronics,Laptops,UPI,12-08-2022,Kimberly Greene,Florida,Orlando,August,9455.6
+B-25861,West,9851,2669,19,"1,482.88","1,434.20",Electronics,Electronic Games,Debit Card,28-03-2022,Tammy Anthony,Ohio,Cleveland,March,28174.72
+B-25861,West,9851,2669,19,828.95,725.03,Electronics,Electronic Games,Debit Card,15-07-2023,Jennifer Chase,New York,Buffalo,July,15750.05
+B-25861,South,9851,2669,19,"3,896.19","3,653.66",Electronics,Electronic Games,Debit Card,22-09-2022,Cassandra Farley,Florida,Orlando,September,74027.61
+B-25861,West,9989,3930,14,"4,262.21","4,075.08",Furniture,Tables,Debit Card,28-03-2022,Tammy Anthony,Ohio,Cleveland,March,59670.94
+B-25861,North,9989,3930,14,"1,510.30","1,324.52",Furniture,Tables,Debit Card,15-07-2023,Jennifer Chase,New York,Buffalo,July,21144.2
+B-25861,East,9989,3930,14,"4,152.72","3,883.38",Furniture,Tables,Debit Card,22-09-2022,Cassandra Farley,Florida,Orlando,September,58138.08
+B-25112,South,7421,958,10,"2,254.84","1,958.49",Furniture,Tables,COD,20-12-2022,Justin Vasquez,Texas,Houston,December,22548.4
+B-25112,West,7421,958,10,"2,958.55","2,558.09",Furniture,Tables,COD,16-01-2022,Melissa Morales,Texas,Houston,January,29585.5
+B-25112,South,7421,958,10,"4,464.28","4,287.21",Furniture,Tables,COD,29-01-2023,Tyler Thompson,Texas,Dallas,January,44642.8
+B-25223,West,3099,479,1,"4,166.95","3,762.27",Office Supplies,Paper,COD,15-01-2022,Heidi Davis,New York,Buffalo,January,4166.95
+B-25223,South,2521,906,7,"4,211.25","4,035.33",Electronics,Phones,COD,15-01-2022,Heidi Davis,New York,Buffalo,January,29478.75
+B-25714,East,6962,3429,12,764.54,727.38,Electronics,Electronic Games,UPI,24-03-2024,Charles Lane,Texas,Dallas,March,9174.48
+B-25714,East,6962,3429,12,676.66,395.11,Electronics,Electronic Games,UPI,19-02-2025,Joyce Good MD,Florida,Miami,February,8119.92
+B-26607,North,1085,301,20,"4,770.42","4,472.35",Furniture,Bookcases,UPI,13-07-2024,Maria Miller,New York,Buffalo,July,95408.4
+B-25038,North,738,342,2,"2,437.70","1,969.78",Furniture,Chairs,Debit Card,28-04-2023,Terry Mcdaniel,Ohio,Cincinnati,April,4875.4
+B-25038,West,738,342,2,"1,840.77","1,475.00",Furniture,Chairs,Debit Card,05-12-2020,Lisa Jacobs,New York,Buffalo,December,3681.54
+B-25038,East,738,342,2,"4,096.96","3,637.25",Furniture,Chairs,Debit Card,14-05-2024,Jeff Duncan,Ohio,Cincinnati,May,8193.92
+B-25038,South,738,342,2,"4,645.35","4,190.26",Furniture,Chairs,Debit Card,18-01-2022,Pamela Jones,New York,New York City,January,9290.7
+B-26672,South,1366,242,17,"4,625.56","4,319.32",Electronics,Electronic Games,EMI,18-09-2023,Renee Robinson,Ohio,Columbus,September,78634.52
+B-26672,South,1518,155,13,"1,882.79","1,614.19",Office Supplies,Markers,Credit Card,18-09-2023,Renee Robinson,Ohio,Columbus,September,24476.27
+B-25747,North,2962,1470,1,"4,551.60","4,268.45",Electronics,Phones,COD,12-05-2021,Jessica Kidd,New York,Buffalo,May,4551.6
+B-25747,South,2962,1470,1,742,252.62,Electronics,Phones,COD,17-09-2023,Nicholas Martin,Florida,Tampa,September,742
+B-25747,North,7131,718,12,684.67,295.82,Electronics,Printers,UPI,12-05-2021,Jessica Kidd,New York,Buffalo,May,8216.04
+B-25747,North,7131,718,12,"3,198.49","3,136.42",Electronics,Printers,UPI,17-09-2023,Nicholas Martin,Florida,Tampa,September,38381.88
+B-25747,West,4200,855,10,753.81,362.38,Office Supplies,Markers,EMI,12-05-2021,Jessica Kidd,New York,Buffalo,May,7538.1
+B-25747,South,4200,855,10,"1,750.38","1,656.82",Office Supplies,Markers,EMI,17-09-2023,Nicholas Martin,Florida,Tampa,September,17503.8
+B-26322,South,5934,1563,2,"3,609.34","3,380.14",Office Supplies,Markers,EMI,06-09-2024,David Brown,Illinois,Peoria,September,7218.68
+B-26613,East,2701,322,11,"1,832.60","1,719.47",Electronics,Printers,UPI,18-06-2022,Amber Moore,New York,New York City,June,20158.6
+B-26613,West,7273,2702,18,"1,286.92",939.02,Office Supplies,Paper,COD,18-06-2022,Amber Moore,New York,New York City,June,23164.56
+B-25413,East,2465,699,18,"1,882.57","1,442.69",Office Supplies,Markers,Debit Card,22-05-2020,James Williams,California,San Francisco,May,33886.26
+B-26466,West,3479,1087,2,"2,467.28","2,315.00",Office Supplies,Markers,EMI,17-10-2024,Karina Barr,Texas,Dallas,October,4934.56
+B-26466,South,5457,1765,7,"2,453.35","2,403.16",Electronics,Printers,EMI,17-10-2024,Karina Barr,Texas,Dallas,October,17173.45
+B-26610,North,4957,1152,8,"4,082.11","3,925.85",Office Supplies,Markers,Credit Card,22-03-2022,Meghan Rush,Ohio,Cleveland,March,32656.88
+B-26209,North,4404,858,17,"4,102.72","3,763.26",Office Supplies,Pens,Debit Card,17-03-2024,Bianca Brown,Ohio,Columbus,March,69746.24
+B-26209,North,8776,2529,15,"2,482.34","2,311.25",Furniture,Sofas,Credit Card,17-03-2024,Bianca Brown,Ohio,Columbus,March,37235.1
+B-26622,North,9536,1437,9,"4,382.32","4,236.05",Electronics,Phones,UPI,02-04-2020,Timothy Jensen,Florida,Orlando,April,39440.88
+B-26622,North,2225,589,7,715.84,615.47,Furniture,Sofas,Credit Card,02-04-2020,Timothy Jensen,Florida,Orlando,April,5010.88
+B-26601,East,9574,4045,19,"1,567.78","1,314.00",Furniture,Bookcases,UPI,13-03-2024,Melinda Montoya,California,San Francisco,March,29787.82
+B-26601,West,4382,482,17,"4,293.69","4,148.48",Electronics,Electronic Games,COD,13-03-2024,Melinda Montoya,California,San Francisco,March,72992.73
+B-25894,South,8200,257,19,"2,289.27","1,921.07",Electronics,Laptops,COD,21-03-2023,Tammy Bell,Ohio,Cincinnati,March,43496.13
+B-25894,East,9316,3003,13,"4,954.39","4,906.85",Furniture,Sofas,Credit Card,21-03-2023,Tammy Bell,Ohio,Cincinnati,March,64407.07
+B-25894,West,6379,3128,15,"2,693.33","2,357.95",Electronics,Electronic Games,COD,21-03-2023,Tammy Bell,Ohio,Cincinnati,March,40399.95
+B-26969,North,3348,568,5,"4,096.48","3,970.08",Office Supplies,Markers,Credit Card,02-03-2024,Connie Richards,Ohio,Cleveland,March,20482.4
+B-26969,West,3348,568,5,"2,291.17","2,041.42",Office Supplies,Markers,Credit Card,30-04-2021,Peter Ward,New York,Rochester,April,11455.85
+B-26969,West,8856,2020,9,"2,303.70","2,153.52",Office Supplies,Pens,Debit Card,02-03-2024,Connie Richards,Ohio,Cleveland,March,20733.3
+B-26969,North,8856,2020,9,"2,309.43","1,945.27",Office Supplies,Pens,Debit Card,30-04-2021,Peter Ward,New York,Rochester,April,20784.87
+B-26312,North,1760,619,16,"4,082.62","3,609.42",Furniture,Sofas,Debit Card,15-09-2021,Jonathan Alvarez,Ohio,Columbus,September,65321.92
+B-26312,North,1760,619,16,"3,219.58","2,760.21",Furniture,Sofas,Debit Card,28-01-2023,Becky Hodges,Texas,Houston,January,51513.28
+B-26312,South,6351,986,15,"5,017.58","4,721.70",Electronics,Printers,UPI,15-09-2021,Jonathan Alvarez,Ohio,Columbus,September,75263.7
+B-26312,North,6351,986,15,"1,528.59","1,291.91",Electronics,Printers,UPI,28-01-2023,Becky Hodges,Texas,Houston,January,22928.85
+B-26837,South,869,373,14,958.76,547.79,Office Supplies,Paper,Credit Card,08-07-2021,Larry Hill,New York,New York City,July,13422.64
+B-26837,North,869,373,14,"2,341.47","1,996.64",Office Supplies,Paper,Credit Card,08-04-2020,Amber Moon,Ohio,Cleveland,April,32780.58
+B-26837,South,1486,114,7,"3,202.68","3,102.73",Furniture,Bookcases,UPI,08-07-2021,Larry Hill,New York,New York City,July,22418.76
+B-26837,West,1486,114,7,"4,723.20","4,310.95",Furniture,Bookcases,UPI,08-04-2020,Amber Moon,Ohio,Cleveland,April,33062.4
+B-26166,East,2999,145,13,"1,983.82","1,763.67",Office Supplies,Binders,COD,23-08-2022,Cynthia Wilcox,Illinois,Chicago,August,25789.66
+B-26166,West,5142,1916,20,"3,388.84","3,286.24",Office Supplies,Paper,EMI,23-08-2022,Cynthia Wilcox,Illinois,Chicago,August,67776.8
+B-25695,West,1239,575,17,"1,931.56","1,783.48",Electronics,Laptops,UPI,17-12-2022,Rebecca Wright,New York,Rochester,December,32836.52
+B-25695,North,1239,575,17,"3,246.33","3,105.24",Electronics,Laptops,UPI,08-06-2022,Sarah Flores,Illinois,Springfield,June,55187.61
+B-25695,South,1262,515,16,"4,694.21","4,429.80",Electronics,Electronic Games,EMI,17-12-2022,Rebecca Wright,New York,Rochester,December,75107.36
+B-25695,East,1262,515,16,"1,320.06","1,195.22",Electronics,Electronic Games,EMI,08-06-2022,Sarah Flores,Illinois,Springfield,June,21120.96
+B-26068,North,1033,254,5,"2,121.55","2,051.00",Furniture,Bookcases,COD,28-08-2020,Carol Norman,New York,Rochester,August,10607.75
+B-26023,North,1518,159,19,"5,037.27","4,966.66",Electronics,Printers,UPI,26-09-2020,Stephanie Gardner,California,San Diego,September,95708.13
+B-26677,North,8581,2444,2,"4,645.17","4,349.36",Office Supplies,Paper,Debit Card,13-12-2020,Philip Baker,Illinois,Peoria,December,9290.34
+B-26677,West,8581,2444,2,"3,215.00","2,844.97",Office Supplies,Paper,Debit Card,19-11-2020,Randall Dennis,Florida,Orlando,November,6430
+B-25701,South,1167,463,5,"2,774.86","2,607.31",Office Supplies,Pens,UPI,13-09-2023,Suzanne Cross,Texas,Austin,September,13874.3
+B-25701,South,2841,803,20,"1,485.75","1,458.77",Electronics,Laptops,Credit Card,13-09-2023,Suzanne Cross,Texas,Austin,September,29715
+B-25701,East,5680,2159,19,"2,682.53","2,610.19",Furniture,Tables,UPI,13-09-2023,Suzanne Cross,Texas,Austin,September,50968.07
+B-26523,South,8204,2382,6,"4,706.70","4,248.50",Office Supplies,Pens,UPI,31-03-2020,Jasmine Delgado,Illinois,Chicago,March,28240.2
+B-26523,South,8204,2382,6,"3,693.45","3,441.61",Office Supplies,Pens,UPI,20-10-2020,Kristen Harper,New York,Buffalo,October,22160.7
+B-26523,North,2850,904,6,"1,717.97","1,485.72",Electronics,Phones,EMI,31-03-2020,Jasmine Delgado,Illinois,Chicago,March,10307.82
+B-26523,North,2850,904,6,"1,075.89","1,047.25",Electronics,Phones,EMI,20-10-2020,Kristen Harper,New York,Buffalo,October,6455.34
+B-25880,West,907,391,9,"1,729.81","1,362.78",Office Supplies,Pens,Credit Card,04-08-2023,Kaitlyn Graham MD,New York,New York City,August,15568.29
+B-26898,North,2174,265,19,"1,159.06",890.31,Office Supplies,Pens,Credit Card,11-04-2022,Dean Avila,Ohio,Cincinnati,April,22022.14
+B-26898,North,8541,2029,12,632.44,523.42,Electronics,Electronic Games,Credit Card,11-04-2022,Dean Avila,Ohio,Cincinnati,April,7589.28
+B-26898,North,1931,551,3,"2,188.66","2,124.72",Furniture,Bookcases,EMI,11-04-2022,Dean Avila,Ohio,Cincinnati,April,6565.98
+B-26035,North,1281,340,3,808.69,610.83,Electronics,Electronic Games,Debit Card,31-12-2021,Megan Mack,Texas,Austin,December,2426.07
+B-26035,West,2404,253,15,"1,321.18",900.97,Electronics,Laptops,COD,31-12-2021,Megan Mack,Texas,Austin,December,19817.7
+B-25573,North,2119,196,1,"3,193.25","2,759.26",Furniture,Sofas,COD,16-08-2020,Heather Johnson,California,Los Angeles,August,3193.25
+B-25463,East,3137,571,9,"1,170.16",864.77,Office Supplies,Pens,Debit Card,02-02-2025,Tina Davies,Illinois,Chicago,February,10531.44
+B-26277,East,2323,727,7,732.69,366.2,Furniture,Tables,COD,24-02-2022,Matthew Harris,Texas,Dallas,February,5128.83
+B-26277,East,1368,406,9,"1,687.50","1,621.07",Furniture,Bookcases,UPI,24-02-2022,Matthew Harris,Texas,Dallas,February,15187.5
+B-26508,East,9204,3289,16,"1,438.76","1,140.58",Electronics,Laptops,Credit Card,25-02-2024,Christopher Kirk,Florida,Miami,February,23020.16
+B-26508,North,9204,3289,16,"2,937.57","2,600.76",Electronics,Laptops,Credit Card,15-06-2021,Eric Stevens,Florida,Miami,June,47001.12
+B-26508,East,9894,3698,20,665.07,556.72,Office Supplies,Paper,EMI,25-02-2024,Christopher Kirk,Florida,Miami,February,13301.4
+B-26508,North,9894,3698,20,"4,212.55","3,771.27",Office Supplies,Paper,EMI,15-06-2021,Eric Stevens,Florida,Miami,June,84251
+B-26723,West,5322,1423,18,"4,641.41","4,535.86",Furniture,Sofas,COD,08-12-2022,James Dickerson,Texas,Houston,December,83545.38
+B-26723,East,5322,1423,18,"3,893.60","3,730.00",Furniture,Sofas,COD,09-12-2023,James Jones,Texas,Dallas,December,70084.8
+B-25526,South,2666,559,14,"3,001.56","2,687.49",Furniture,Chairs,COD,16-07-2022,Hannah Hendricks,Ohio,Cleveland,July,42021.84
+B-25645,East,8383,937,4,"4,633.10","4,310.31",Furniture,Sofas,UPI,05-05-2024,Brett Mullins,Florida,Orlando,May,18532.4
+B-25757,East,7560,821,4,"3,842.55","3,489.85",Office Supplies,Paper,EMI,04-10-2021,Ms. Kim Jordan,Illinois,Chicago,October,15370.2
+B-26716,North,1314,490,16,167.12,102.23,Furniture,Sofas,UPI,20-11-2021,Marcus Santiago,New York,Buffalo,November,2673.92
+B-26716,East,4390,179,1,"2,426.99","2,000.75",Furniture,Tables,Debit Card,20-11-2021,Marcus Santiago,New York,Buffalo,November,2426.99
+B-26716,South,1150,58,7,"4,533.31","4,262.21",Office Supplies,Binders,Debit Card,20-11-2021,Marcus Santiago,New York,Buffalo,November,31733.17
+B-25424,North,1574,258,17,"2,002.95","1,762.00",Office Supplies,Pens,EMI,15-09-2020,Jill Perez,California,San Diego,September,34050.15
+B-25424,North,5635,318,17,715.06,224.32,Office Supplies,Binders,UPI,15-09-2020,Jill Perez,California,San Diego,September,12156.02
+B-25424,West,6515,961,11,"4,116.38","3,743.59",Furniture,Sofas,Debit Card,15-09-2020,Jill Perez,California,San Diego,September,45280.18
+B-26453,West,1231,214,20,"4,087.91","4,020.09",Electronics,Laptops,Debit Card,17-01-2023,Courtney Williams,Ohio,Columbus,January,81758.2
+B-26453,East,1231,214,20,"1,225.64",844.94,Electronics,Laptops,Debit Card,16-06-2020,Jordan Hahn,New York,Rochester,June,24512.8
+B-26425,West,6891,2529,3,"2,766.51","2,709.84",Office Supplies,Binders,Debit Card,01-05-2024,William Cook,Ohio,Cleveland,May,8299.53
+B-25843,West,7524,2308,15,"1,023.64","1,000.18",Electronics,Laptops,EMI,07-12-2023,Stephanie Hayes,Texas,Austin,December,15354.6
+B-25843,West,6864,1824,14,"3,817.99","3,610.21",Electronics,Printers,Credit Card,07-12-2023,Stephanie Hayes,Texas,Austin,December,53451.86
+B-25486,North,4215,432,14,"1,891.02","1,394.17",Furniture,Chairs,Debit Card,02-02-2024,Melissa Wise,Ohio,Columbus,February,26474.28
+B-26975,North,622,218,19,"1,710.95","1,615.26",Furniture,Bookcases,Credit Card,23-06-2024,Elizabeth Gonzalez,California,San Diego,June,32508.05
+B-26975,North,1755,495,18,"4,572.21","4,232.61",Office Supplies,Pens,UPI,23-06-2024,Elizabeth Gonzalez,California,San Diego,June,82299.78
+B-26975,West,8020,3898,20,"2,502.76","2,407.80",Electronics,Electronic Games,EMI,23-06-2024,Elizabeth Gonzalez,California,San Diego,June,50055.2
+B-26890,North,7333,1576,4,"3,730.43","3,365.28",Electronics,Laptops,Credit Card,07-06-2024,Mr. Eric Lopez,New York,Buffalo,June,14921.72
+B-26125,West,7690,1134,4,"2,299.37","2,041.75",Electronics,Electronic Games,COD,13-10-2023,Benjamin Higgins,New York,Rochester,October,9197.48
+B-26125,North,912,246,2,"1,868.32","1,525.13",Furniture,Sofas,EMI,13-10-2023,Benjamin Higgins,New York,Rochester,October,3736.64
+B-26489,North,2791,894,14,"3,255.53","3,146.12",Electronics,Laptops,COD,08-10-2022,Brett Sutton,Texas,Austin,October,45577.42
+B-26489,South,2791,894,14,"1,191.90",816.54,Electronics,Laptops,COD,27-10-2023,Anna Blackburn,Ohio,Cincinnati,October,16686.6
+B-26489,East,2791,894,14,"2,394.20","1,896.35",Electronics,Laptops,COD,09-02-2021,Michelle Bailey,Texas,Dallas,February,33518.8
+B-26489,West,6223,1478,3,"1,420.90","1,084.73",Furniture,Sofas,Debit Card,08-10-2022,Brett Sutton,Texas,Austin,October,4262.7
+B-26489,South,6223,1478,3,"3,746.00","3,494.19",Furniture,Sofas,Debit Card,27-10-2023,Anna Blackburn,Ohio,Cincinnati,October,11238
+B-26489,North,6223,1478,3,"5,186.19","4,723.83",Furniture,Sofas,Debit Card,09-02-2021,Michelle Bailey,Texas,Dallas,February,15558.57
+B-26489,West,8943,3121,17,"4,995.55","4,977.78",Furniture,Chairs,Debit Card,08-10-2022,Brett Sutton,Texas,Austin,October,84924.35
+B-26489,North,8943,3121,17,"2,646.53","2,278.87",Furniture,Chairs,Debit Card,27-10-2023,Anna Blackburn,Ohio,Cincinnati,October,44991.01
+B-26489,East,8943,3121,17,"1,745.52","1,300.03",Furniture,Chairs,Debit Card,09-02-2021,Michelle Bailey,Texas,Dallas,February,29673.84
+B-26489,South,3297,102,12,"2,282.23","2,242.01",Electronics,Phones,Credit Card,08-10-2022,Brett Sutton,Texas,Austin,October,27386.76
+B-26489,East,3297,102,12,"4,474.51","4,243.98",Electronics,Phones,Credit Card,27-10-2023,Anna Blackburn,Ohio,Cincinnati,October,53694.12
+B-26489,South,3297,102,12,"1,180.04","1,069.73",Electronics,Phones,Credit Card,09-02-2021,Michelle Bailey,Texas,Dallas,February,14160.48
+B-26043,North,8769,1989,20,"5,050.46","4,762.87",Office Supplies,Paper,UPI,03-11-2020,Sara Peterson,Illinois,Chicago,November,101009.2
+B-26557,East,9057,1888,19,"2,070.52","1,742.24",Electronics,Printers,COD,30-05-2022,Katherine Williams,Florida,Orlando,May,39339.88
+B-26557,East,6864,3275,11,"5,088.02","4,929.73",Furniture,Tables,Credit Card,30-05-2022,Katherine Williams,Florida,Orlando,May,55968.22
+B-26557,North,9200,809,13,"4,436.50","4,201.11",Electronics,Laptops,COD,30-05-2022,Katherine Williams,Florida,Orlando,May,57674.5
+B-25243,East,6113,2508,6,"4,199.30","4,052.42",Electronics,Laptops,UPI,16-06-2024,Cory Evans,Florida,Orlando,June,25195.8
+B-25243,West,7733,2784,15,"1,814.63","1,623.63",Furniture,Tables,EMI,16-06-2024,Cory Evans,Florida,Orlando,June,27219.45
+B-25243,South,8524,154,14,181.62,93.45,Furniture,Tables,COD,16-06-2024,Cory Evans,Florida,Orlando,June,2542.68
+B-25243,South,6187,2344,15,"2,385.48","1,941.56",Furniture,Bookcases,EMI,16-06-2024,Cory Evans,Florida,Orlando,June,35782.2
+B-26932,South,4364,148,18,"1,558.87","1,543.96",Furniture,Tables,EMI,15-07-2022,Michael Rodriguez,Ohio,Cincinnati,July,28059.66
+B-26932,West,736,286,12,677.5,235.12,Office Supplies,Pens,EMI,15-07-2022,Michael Rodriguez,Ohio,Cincinnati,July,8130
+B-25241,South,9905,633,17,"2,841.68","2,551.56",Office Supplies,Pens,EMI,18-07-2021,John Munoz,Texas,Dallas,July,48308.56
+B-25241,North,9905,633,17,"2,217.51","2,045.00",Office Supplies,Pens,EMI,02-10-2021,David Clark,Florida,Tampa,October,37697.67
+B-25044,East,2493,1221,9,"3,555.35","3,191.05",Office Supplies,Paper,Credit Card,16-04-2024,April Welch,Illinois,Springfield,April,31998.15
+B-25044,West,9849,963,1,"3,383.67","3,124.87",Office Supplies,Pens,Credit Card,16-04-2024,April Welch,Illinois,Springfield,April,3383.67
+B-26137,South,3423,804,4,902.26,647.7,Electronics,Printers,Credit Card,09-07-2020,Alan Livingston,Illinois,Peoria,July,3609.04
+B-26137,North,3423,804,4,"4,949.95","4,885.98",Electronics,Printers,Credit Card,25-07-2020,Angela Jackson,Texas,Dallas,July,19799.8
+B-26137,East,3423,804,4,"1,176.17",975.31,Electronics,Printers,Credit Card,24-01-2024,Amy Williams,Texas,Austin,January,4704.68
+B-26137,East,3423,804,4,"2,382.23","2,254.11",Electronics,Printers,Credit Card,04-05-2020,Laura Jordan,Texas,Dallas,May,9528.92
+B-26137,West,3423,804,4,"2,483.87","2,466.18",Electronics,Printers,Credit Card,13-11-2021,Richard Maynard,Ohio,Cincinnati,November,9935.48
+B-25545,West,3900,115,9,"4,261.11","4,074.66",Furniture,Chairs,COD,07-10-2023,Lawrence Oliver,Illinois,Springfield,October,38349.99
+B-26800,West,8568,2419,11,595.2,541.19,Electronics,Electronic Games,UPI,23-10-2021,Anthony Williams,New York,Rochester,October,6547.2
+B-26800,North,3283,71,6,"2,307.64","2,171.79",Office Supplies,Pens,EMI,23-10-2021,Anthony Williams,New York,Rochester,October,13845.84
+B-26987,North,7643,3720,19,"3,216.42","3,161.09",Electronics,Electronic Games,EMI,18-07-2022,Lynn Matthews,Texas,Dallas,July,61111.98
+B-26144,West,3461,1537,15,"1,174.48","1,115.02",Furniture,Sofas,EMI,23-08-2024,Andrew Griffin,Illinois,Chicago,August,17617.2
+B-26144,South,5714,1438,6,"3,263.49","3,155.97",Electronics,Electronic Games,Credit Card,23-08-2024,Andrew Griffin,Illinois,Chicago,August,19580.94
+B-26144,East,3853,1457,10,"5,122.07","4,622.14",Office Supplies,Binders,COD,23-08-2024,Andrew Griffin,Illinois,Chicago,August,51220.7
+B-25406,East,6016,431,20,"4,998.78","4,987.71",Office Supplies,Pens,UPI,28-10-2020,Megan Williams,Illinois,Chicago,October,99975.6
+B-25658,North,1290,204,12,533.58,210.63,Office Supplies,Markers,UPI,15-06-2024,Alison Martin,New York,Buffalo,June,6402.96
+B-25658,East,1290,204,12,"1,295.37","1,216.16",Office Supplies,Markers,UPI,19-12-2024,Samuel Wallace,California,San Francisco,December,15544.44
+B-25733,South,4569,1693,10,"2,047.13","1,586.02",Electronics,Printers,UPI,04-09-2020,Manuel Stark,Illinois,Springfield,September,20471.3
+B-26993,East,3083,1151,16,"2,081.55","2,025.67",Furniture,Bookcases,Debit Card,16-04-2022,William Villarreal,Florida,Orlando,April,33304.8
+B-26964,North,3522,898,15,"1,727.15","1,249.17",Office Supplies,Pens,Credit Card,29-08-2024,Brandon Kirk,Ohio,Cleveland,August,25907.25
+B-26964,North,3522,898,15,"1,366.62","1,057.27",Office Supplies,Pens,Credit Card,14-01-2022,Abigail Brown,California,Los Angeles,January,20499.3
+B-26955,South,7301,3602,3,"4,785.66","4,775.04",Office Supplies,Binders,Debit Card,07-04-2024,Kristine Carter,Texas,Houston,April,14356.98
+B-26059,South,4462,121,8,"5,044.74","4,596.68",Electronics,Laptops,COD,24-04-2022,Wesley Deleon,Illinois,Springfield,April,40357.92
+B-26059,East,6212,1881,17,548.25,282.61,Electronics,Phones,COD,24-04-2022,Wesley Deleon,Illinois,Springfield,April,9320.25
+B-26806,East,4027,1386,3,"1,865.83","1,727.12",Furniture,Bookcases,EMI,27-08-2020,Laura Cole,Florida,Tampa,August,5597.49
+B-26299,North,1676,330,14,"2,441.46","2,055.49",Electronics,Laptops,EMI,01-03-2023,Lauren Harris,Ohio,Cleveland,March,34180.44
+B-26299,South,3927,1133,12,"1,697.19","1,233.12",Furniture,Bookcases,COD,01-03-2023,Lauren Harris,Ohio,Cleveland,March,20366.28
+B-26299,South,2776,887,9,"3,409.93","3,162.92",Electronics,Phones,Debit Card,01-03-2023,Lauren Harris,Ohio,Cleveland,March,30689.37
+B-26743,South,7684,1157,12,"3,384.50","3,219.88",Furniture,Sofas,COD,02-10-2020,Cameron Miller,Illinois,Chicago,October,40614
+B-26743,East,7684,1157,12,"4,656.58","4,260.00",Furniture,Sofas,COD,23-06-2020,Jacob Carpenter,New York,Buffalo,June,55878.96
+B-26743,South,7684,1157,12,"4,061.37","3,717.30",Furniture,Sofas,COD,21-08-2023,Pamela Callahan DVM,Ohio,Columbus,August,48736.44
+B-26757,North,6008,2498,17,"3,181.23","2,735.74",Electronics,Phones,Credit Card,16-07-2022,William Ruiz,Florida,Miami,July,54080.91
+B-26772,North,7344,2598,20,"3,634.58","3,285.25",Furniture,Bookcases,COD,01-08-2022,Paula Marshall,Texas,Dallas,August,72691.6
+B-26088,East,6932,3218,20,"1,535.57","1,406.24",Office Supplies,Pens,COD,16-07-2020,Natalie Cox,Florida,Orlando,July,30711.4
+B-26319,West,7748,1706,16,"3,452.14","2,985.63",Electronics,Electronic Games,EMI,02-05-2020,Andrew Fernandez,Ohio,Cincinnati,May,55234.24
+B-26319,East,6381,2763,20,"2,533.04","2,471.67",Office Supplies,Markers,UPI,02-05-2020,Andrew Fernandez,Ohio,Cincinnati,May,50660.8
+B-26319,West,992,64,6,851.35,710.06,Electronics,Phones,Credit Card,02-05-2020,Andrew Fernandez,Ohio,Cincinnati,May,5108.1
+B-25364,South,8649,2631,13,"1,515.49","1,250.59",Electronics,Laptops,EMI,10-01-2024,Alisha Saunders,California,San Francisco,January,19701.37
+B-25364,East,8649,2631,13,"1,781.09","1,493.88",Electronics,Laptops,EMI,30-09-2020,Travis Chandler DDS,New York,Rochester,September,23154.17
+B-25655,North,4099,52,18,"4,642.83","4,625.33",Electronics,Laptops,UPI,28-03-2022,Russell Austin,New York,New York City,March,83570.94
+B-26864,South,2539,324,5,"1,582.89","1,190.41",Electronics,Electronic Games,UPI,30-01-2021,Collin Cameron,California,San Francisco,January,7914.45
+B-26019,North,9845,3062,9,"1,668.95","1,481.76",Office Supplies,Paper,COD,14-03-2025,Elizabeth Hernandez,Florida,Orlando,March,15020.55
+B-25849,South,2901,1411,2,"2,087.45","1,878.30",Office Supplies,Paper,Debit Card,26-10-2021,William Russell,Texas,Austin,October,4174.9
+B-25849,East,2901,1411,2,"3,742.12","3,335.53",Office Supplies,Paper,Debit Card,11-01-2023,Sheri Berg,California,Los Angeles,January,7484.24
+B-25849,West,6934,1152,6,831.13,635.28,Office Supplies,Pens,Credit Card,26-10-2021,William Russell,Texas,Austin,October,4986.78
+B-25849,South,6934,1152,6,"4,805.17","4,772.03",Office Supplies,Pens,Credit Card,11-01-2023,Sheri Berg,California,Los Angeles,January,28831.02
+B-25829,West,9640,2606,2,"4,431.04","4,334.58",Furniture,Bookcases,Credit Card,31-10-2021,Anthony Barnett,Illinois,Peoria,October,8862.08
+B-26065,South,7930,1981,13,"3,385.61","2,907.22",Furniture,Chairs,Credit Card,04-05-2023,Kaitlyn Flores,Ohio,Cleveland,May,44012.93
+B-26065,North,7930,1981,13,"3,430.99","3,386.49",Furniture,Chairs,Credit Card,09-08-2024,Rebecca Owen,Illinois,Springfield,August,44602.87
+B-25267,North,9894,829,1,316.39,132.47,Office Supplies,Binders,COD,21-08-2022,Michael Bell,California,San Diego,August,316.39
+B-25267,South,4534,2235,4,"1,984.34","1,727.78",Furniture,Tables,COD,21-08-2022,Michael Bell,California,San Diego,August,7937.36
+B-25972,West,4911,186,20,"4,240.23","3,988.52",Electronics,Phones,Debit Card,19-06-2022,Willie Huynh,New York,Buffalo,June,84804.6
+B-25972,East,531,189,20,445.48,433.54,Furniture,Bookcases,Debit Card,19-06-2022,Willie Huynh,New York,Buffalo,June,8909.6
+B-25511,East,9707,3483,10,"1,703.02","1,447.45",Electronics,Electronic Games,EMI,29-01-2025,Samuel Hayes,Illinois,Peoria,January,17030.2
+B-25511,North,8521,2584,7,"3,145.27","2,947.22",Office Supplies,Paper,COD,29-01-2025,Samuel Hayes,Illinois,Peoria,January,22016.89
+B-25744,East,8438,3427,12,"1,805.56","1,319.24",Office Supplies,Binders,Credit Card,14-01-2022,Sherry Tran,New York,Buffalo,January,21666.72
+B-25744,North,1689,109,9,"4,761.18","4,673.19",Electronics,Electronic Games,UPI,14-01-2022,Sherry Tran,New York,Buffalo,January,42850.62
+B-25744,East,3936,1626,14,882.28,698.74,Office Supplies,Paper,COD,14-01-2022,Sherry Tran,New York,Buffalo,January,12351.92
+B-26805,South,7664,1753,19,"4,212.65","3,997.10",Electronics,Phones,Debit Card,15-06-2023,Heather Gray,Ohio,Cincinnati,June,80040.35
+B-25620,North,721,258,13,"2,765.79","2,564.35",Electronics,Laptops,Debit Card,18-10-2023,Benjamin Meadows,Illinois,Peoria,October,35955.27
+B-25620,North,721,258,13,"4,100.40","3,764.14",Electronics,Laptops,Debit Card,13-06-2022,Micheal Graham,New York,Buffalo,June,53305.2
+B-25620,South,8364,3055,17,"1,703.64","1,588.04",Electronics,Laptops,Credit Card,18-10-2023,Benjamin Meadows,Illinois,Peoria,October,28961.88
+B-25620,North,8364,3055,17,"2,715.05","2,596.72",Electronics,Laptops,Credit Card,13-06-2022,Micheal Graham,New York,Buffalo,June,46155.85
+B-25620,East,5234,2021,15,"4,658.64","4,291.33",Furniture,Bookcases,EMI,18-10-2023,Benjamin Meadows,Illinois,Peoria,October,69879.6
+B-25620,East,5234,2021,15,"2,616.19","2,361.05",Furniture,Bookcases,EMI,13-06-2022,Micheal Graham,New York,Buffalo,June,39242.85
+B-25325,North,3944,1559,18,"2,044.04","1,830.61",Electronics,Phones,Credit Card,12-06-2024,Jean Jackson,California,San Francisco,June,36792.72
+B-25325,East,6711,1045,12,"2,796.88","2,703.97",Office Supplies,Pens,Credit Card,12-06-2024,Jean Jackson,California,San Francisco,June,33562.56
+B-25325,West,5031,714,4,"3,702.84","3,600.95",Furniture,Tables,Credit Card,12-06-2024,Jean Jackson,California,San Francisco,June,14811.36
+B-25325,North,6295,2469,14,"2,260.81","2,245.64",Office Supplies,Binders,EMI,12-06-2024,Jean Jackson,California,San Francisco,June,31651.34
+B-25131,South,9654,4111,1,"4,752.24","4,697.44",Office Supplies,Paper,UPI,27-06-2022,Timothy Murphy,California,San Francisco,June,4752.24
+B-25131,West,3112,1065,20,"1,792.83","1,509.98",Office Supplies,Binders,COD,27-06-2022,Timothy Murphy,California,San Francisco,June,35856.6
+B-26654,North,7838,1142,13,"2,850.56","2,403.54",Electronics,Phones,UPI,18-02-2021,Mrs. Jennifer Lewis,California,San Francisco,February,37057.28
+B-26654,South,9300,3146,6,"3,947.50","3,796.79",Electronics,Phones,Credit Card,18-02-2021,Mrs. Jennifer Lewis,California,San Francisco,February,23685
+B-26654,East,1733,133,17,"3,631.75","3,461.15",Office Supplies,Paper,Debit Card,18-02-2021,Mrs. Jennifer Lewis,California,San Francisco,February,61739.75
+B-26195,South,874,235,15,"4,391.67","4,325.02",Office Supplies,Binders,Debit Card,29-05-2023,Bryan Brown,New York,Rochester,May,65875.05
+B-26195,West,874,235,15,"5,184.64","4,984.21",Office Supplies,Binders,Debit Card,04-06-2021,Christopher Johnson,Florida,Miami,June,77769.6
+B-25842,East,1248,584,13,"2,191.19","2,162.95",Office Supplies,Pens,EMI,22-01-2024,Christina Conner,Ohio,Columbus,January,28485.47
+B-25842,North,1248,584,13,"1,059.82",600.2,Office Supplies,Pens,EMI,27-12-2022,Luis Luna,California,San Francisco,December,13777.66
+B-25842,East,3669,154,14,540.38,200.56,Office Supplies,Markers,EMI,22-01-2024,Christina Conner,Ohio,Columbus,January,7565.32
+B-25842,North,3669,154,14,"4,143.51","3,648.04",Office Supplies,Markers,EMI,27-12-2022,Luis Luna,California,San Francisco,December,58009.14
+B-25842,North,514,109,15,"4,818.95","4,376.37",Office Supplies,Paper,Debit Card,22-01-2024,Christina Conner,Ohio,Columbus,January,72284.25
+B-25842,South,514,109,15,"1,384.30","1,142.53",Office Supplies,Paper,Debit Card,27-12-2022,Luis Luna,California,San Francisco,December,20764.5
+B-25851,South,3273,85,16,"1,098.97",834.32,Electronics,Phones,UPI,30-03-2024,Julie Chavez,Ohio,Cincinnati,March,17583.52
+B-25427,South,5035,2008,2,461.3,357.92,Furniture,Chairs,COD,04-04-2020,Richard Blair,Florida,Miami,April,922.6
+B-25427,West,7702,60,19,"4,358.78","4,122.38",Electronics,Printers,UPI,04-04-2020,Richard Blair,Florida,Miami,April,82816.82
+B-25427,West,9884,4446,7,"2,043.82","1,591.34",Electronics,Printers,EMI,04-04-2020,Richard Blair,Florida,Miami,April,14306.74
+B-26224,South,5564,175,11,"2,073.32","2,038.40",Electronics,Laptops,COD,22-01-2023,Mitchell Lester,Illinois,Chicago,January,22806.52
+B-26224,West,5564,175,11,"2,971.75","2,538.61",Electronics,Laptops,COD,12-04-2022,Mr. John Tyler PhD,Texas,Houston,April,32689.25
+B-26224,East,5564,175,11,"4,382.35","4,205.29",Electronics,Laptops,COD,13-12-2023,Juan Kelly,Florida,Miami,December,48205.85
+B-26224,East,3953,1776,15,"3,722.38","3,271.62",Electronics,Electronic Games,UPI,22-01-2023,Mitchell Lester,Illinois,Chicago,January,55835.7
+B-26224,West,3953,1776,15,"3,565.60","3,094.57",Electronics,Electronic Games,UPI,12-04-2022,Mr. John Tyler PhD,Texas,Houston,April,53484
+B-26224,West,3953,1776,15,"1,258.30",919.58,Electronics,Electronic Games,UPI,13-12-2023,Juan Kelly,Florida,Miami,December,18874.5
+B-26896,East,6488,1591,18,"2,925.86","2,590.29",Electronics,Printers,EMI,24-05-2023,Morgan Mccarthy,Texas,Dallas,May,52665.48
+B-26896,North,6488,1591,18,"3,822.99","3,591.14",Electronics,Printers,EMI,29-11-2020,Morgan Sullivan,Texas,Houston,November,68813.82
+B-26469,East,7856,3699,17,"5,287.05","4,867.64",Electronics,Electronic Games,UPI,24-03-2021,Eric Clark,Florida,Orlando,March,89879.85
+B-26469,East,1165,51,3,"1,528.15","1,046.96",Office Supplies,Pens,EMI,24-03-2021,Eric Clark,Florida,Orlando,March,4584.45
+B-26219,West,9386,2555,20,487.03,97.24,Office Supplies,Markers,Credit Card,19-08-2020,Mark Padilla,California,San Diego,August,9740.6
+B-26219,East,9386,2555,20,737.49,422.74,Office Supplies,Markers,Credit Card,20-10-2022,Anthony Lane,Ohio,Cleveland,October,14749.8
+B-26119,West,3956,142,12,"2,217.80","1,910.47",Office Supplies,Pens,Debit Card,20-09-2023,Jeffrey Henderson,Florida,Tampa,September,26613.6
+B-26119,West,3956,142,12,"4,537.94","4,111.70",Office Supplies,Pens,Debit Card,26-12-2024,Michelle Hardy,Texas,Dallas,December,54455.28
+B-26119,South,6449,2628,11,360.54,85.35,Furniture,Bookcases,EMI,20-09-2023,Jeffrey Henderson,Florida,Tampa,September,3965.94
+B-26119,East,6449,2628,11,"2,714.71","2,310.82",Furniture,Bookcases,EMI,26-12-2024,Michelle Hardy,Texas,Dallas,December,29861.81
+B-26988,North,6255,437,18,"1,939.04","1,679.69",Office Supplies,Markers,COD,03-12-2021,Ms. Barbara Cervantes,New York,Rochester,December,34902.72
+B-26988,South,2109,681,20,350.38,309.78,Electronics,Electronic Games,UPI,03-12-2021,Ms. Barbara Cervantes,New York,Rochester,December,7007.6
+B-25596,West,6707,1041,20,"2,476.80","2,278.67",Electronics,Phones,Credit Card,14-09-2021,Steven Proctor,Texas,Austin,September,49536
+B-26845,West,7633,184,13,"1,538.79","1,311.01",Office Supplies,Pens,COD,30-09-2021,Shannon Patterson,Illinois,Springfield,September,20004.27
+B-25099,North,975,224,18,"1,871.22","1,791.83",Office Supplies,Pens,COD,22-12-2021,William Valdez,California,San Diego,December,33681.96
+B-25099,West,4492,1450,7,"3,603.02","3,542.80",Furniture,Tables,EMI,22-12-2021,William Valdez,California,San Diego,December,25221.14
+B-25099,East,7957,2834,12,"2,904.06","2,631.68",Furniture,Chairs,UPI,22-12-2021,William Valdez,California,San Diego,December,34848.72
+B-26153,South,4906,975,7,718.72,667,Furniture,Tables,Debit Card,18-05-2022,Laura Yu,Texas,Houston,May,5031.04
+B-25060,West,1379,250,3,"4,967.44","4,809.00",Office Supplies,Pens,Credit Card,08-10-2020,Jonathan Mcmillan,New York,Buffalo,October,14902.32
+B-25060,West,4244,340,10,"3,572.61","3,197.76",Electronics,Laptops,Debit Card,08-10-2020,Jonathan Mcmillan,New York,Buffalo,October,35726.1
+B-26572,North,5911,2333,14,"4,323.62","3,841.05",Furniture,Bookcases,EMI,20-08-2022,Austin Davis,California,San Diego,August,60530.68
+B-26572,East,5911,2333,14,803.87,442.11,Furniture,Bookcases,EMI,25-11-2024,Mark Roy,California,San Francisco,November,11254.18
+B-26572,West,1818,738,11,779.33,282.94,Office Supplies,Markers,EMI,20-08-2022,Austin Davis,California,San Diego,August,8572.63
+B-26572,North,1818,738,11,498.46,146.27,Office Supplies,Markers,EMI,25-11-2024,Mark Roy,California,San Francisco,November,5483.06
+B-25919,West,2140,970,4,"1,138.49",984.53,Office Supplies,Paper,Credit Card,30-09-2020,Jillian Williams,California,San Diego,September,4553.96
+B-25919,North,2140,970,4,"2,440.63","2,101.32",Office Supplies,Paper,Credit Card,20-02-2025,Rebekah Carter,Florida,Orlando,February,9762.52
+B-25919,North,2140,970,4,"5,036.40","4,682.34",Office Supplies,Paper,Credit Card,20-03-2022,Jonathan Reed,California,San Francisco,March,20145.6
+B-25919,East,2670,1026,1,"2,504.60","2,312.45",Electronics,Laptops,Debit Card,30-09-2020,Jillian Williams,California,San Diego,September,2504.6
+B-25919,West,2670,1026,1,"1,505.44","1,486.76",Electronics,Laptops,Debit Card,20-02-2025,Rebekah Carter,Florida,Orlando,February,1505.44
+B-25919,East,2670,1026,1,"3,186.15","2,831.58",Electronics,Laptops,Debit Card,20-03-2022,Jonathan Reed,California,San Francisco,March,3186.15
+B-26978,North,1108,167,18,624.71,604.08,Electronics,Laptops,Debit Card,07-03-2025,Roger Harris,Illinois,Springfield,March,11244.78
+B-26978,South,9776,3750,9,"3,386.33","3,067.05",Office Supplies,Binders,UPI,07-03-2025,Roger Harris,Illinois,Springfield,March,30476.97
+B-26978,West,535,72,6,"2,953.91","2,863.74",Furniture,Bookcases,COD,07-03-2025,Roger Harris,Illinois,Springfield,March,17723.46
+B-26554,South,7564,3463,5,"4,257.52","3,970.37",Office Supplies,Paper,Credit Card,16-06-2024,Louis Jimenez,Florida,Tampa,June,21287.6
+B-26554,West,7564,3463,5,"5,191.02","4,934.10",Office Supplies,Paper,Credit Card,21-11-2020,Jessica Jones,Illinois,Peoria,November,25955.1
+B-26554,East,7564,3463,5,"1,308.44","1,291.82",Office Supplies,Paper,Credit Card,01-10-2024,Renee Gomez,Florida,Miami,October,6542.2
+B-26554,East,7564,3463,5,"2,760.60","2,572.80",Office Supplies,Paper,Credit Card,01-07-2024,Connie Olson,Texas,Houston,July,13803
+B-26554,East,3409,1605,20,"4,853.41","4,548.88",Electronics,Electronic Games,UPI,16-06-2024,Louis Jimenez,Florida,Tampa,June,97068.2
+B-26554,East,3409,1605,20,"4,362.51","3,936.69",Electronics,Electronic Games,UPI,21-11-2020,Jessica Jones,Illinois,Peoria,November,87250.2
+B-26554,East,3409,1605,20,"2,908.09","2,462.66",Electronics,Electronic Games,UPI,01-10-2024,Renee Gomez,Florida,Miami,October,58161.8
+B-26554,South,3409,1605,20,"4,976.68","4,729.59",Electronics,Electronic Games,UPI,01-07-2024,Connie Olson,Texas,Houston,July,99533.6
+B-26883,East,9751,2459,13,700.25,333.32,Office Supplies,Pens,COD,23-11-2020,Christian Jones,New York,Buffalo,November,9103.25
+B-25423,North,6385,2656,11,"4,823.50","4,658.44",Electronics,Printers,Credit Card,18-03-2023,Matthew Kelley,Florida,Orlando,March,53058.5
+B-25423,North,6385,2656,11,477.68,300.01,Electronics,Printers,Credit Card,19-10-2022,Candace Martinez,Florida,Tampa,October,5254.48
+B-26324,South,6355,1335,15,"2,864.45","2,759.16",Electronics,Electronic Games,Debit Card,31-08-2023,Jacob Mann,Texas,Austin,August,42966.75
+B-26324,West,6355,1335,15,"4,743.03","4,457.68",Electronics,Electronic Games,Debit Card,06-06-2021,Keith Reese,Texas,Austin,June,71145.45
+B-26945,North,7377,320,15,"1,514.61","1,350.47",Electronics,Printers,Debit Card,21-12-2022,Aaron Jones,Texas,Austin,December,22719.15
+B-26945,West,2054,371,12,"2,438.97","2,387.63",Office Supplies,Markers,EMI,21-12-2022,Aaron Jones,Texas,Austin,December,29267.64
+B-26405,South,7497,319,18,"2,001.08","1,655.43",Furniture,Chairs,COD,12-02-2024,Christopher Brooks,Illinois,Peoria,February,36019.44
+B-26046,West,2565,983,20,"5,119.91","4,763.11",Electronics,Electronic Games,Debit Card,05-12-2022,Charles Moore,Florida,Miami,December,102398.2
+B-26046,West,5024,1544,19,"4,313.45","4,127.05",Office Supplies,Pens,COD,05-12-2022,Charles Moore,Florida,Miami,December,81955.55
+B-25746,West,8243,1346,15,"3,607.15","3,559.56",Office Supplies,Binders,Debit Card,04-04-2021,Manuel Walls,Texas,Houston,April,54107.25
+B-25232,West,7792,1403,13,"3,177.64","2,958.75",Office Supplies,Paper,UPI,12-02-2021,Darren Moore,Illinois,Peoria,February,41309.32
+B-25232,South,7792,1403,13,"4,338.67","4,111.93",Office Supplies,Paper,UPI,27-12-2022,Stephanie Thomas,New York,Rochester,December,56402.71
+B-25232,North,7792,1403,13,"2,329.37","1,991.72",Office Supplies,Paper,UPI,19-01-2024,Kristy Hernandez,California,San Diego,January,30281.81
+B-25232,East,2346,388,14,"2,429.93","2,265.38",Furniture,Chairs,Debit Card,12-02-2021,Darren Moore,Illinois,Peoria,February,34019.02
+B-25232,West,2346,388,14,"4,007.98","3,663.51",Furniture,Chairs,Debit Card,27-12-2022,Stephanie Thomas,New York,Rochester,December,56111.72
+B-25232,North,2346,388,14,"2,257.92","1,820.89",Furniture,Chairs,Debit Card,19-01-2024,Kristy Hernandez,California,San Diego,January,31610.88
+B-25591,North,7346,1043,10,492.68,366.31,Furniture,Sofas,Credit Card,25-12-2022,Randy Johnson,Ohio,Columbus,December,4926.8
+B-25591,South,9770,4132,7,907.63,417.96,Electronics,Electronic Games,UPI,25-12-2022,Randy Johnson,Ohio,Columbus,December,6353.41
+B-25591,North,7179,683,13,820.37,621.05,Electronics,Laptops,Credit Card,25-12-2022,Randy Johnson,Ohio,Columbus,December,10664.81
+B-26325,South,5449,2389,2,"4,495.88","4,354.92",Electronics,Phones,UPI,06-10-2022,James Benitez,Florida,Miami,October,8991.76
+B-25251,West,2895,104,6,"2,604.06","2,387.52",Furniture,Chairs,COD,27-04-2020,Donald York,New York,Buffalo,April,15624.36
+B-25251,West,2895,104,6,"3,635.02","3,578.77",Furniture,Chairs,COD,13-05-2024,Tiffany Parker,Texas,Houston,May,21810.12
+B-25251,East,697,116,1,"2,066.50","1,994.90",Furniture,Chairs,UPI,27-04-2020,Donald York,New York,Buffalo,April,2066.5
+B-25251,East,697,116,1,"1,543.69","1,330.62",Furniture,Chairs,UPI,13-05-2024,Tiffany Parker,Texas,Houston,May,1543.69
+B-25464,East,6145,1414,4,"2,152.20","1,768.60",Furniture,Chairs,COD,23-10-2020,Melissa Mcknight,California,Los Angeles,October,8608.8
+B-25464,North,2504,440,18,"4,432.35","3,981.20",Electronics,Printers,UPI,23-10-2020,Melissa Mcknight,California,Los Angeles,October,79782.3
+B-25464,West,3124,138,16,"3,480.58","3,144.82",Electronics,Phones,Debit Card,23-10-2020,Melissa Mcknight,California,Los Angeles,October,55689.28
+B-26678,South,6934,1226,1,"4,752.88","4,691.32",Electronics,Electronic Games,Debit Card,11-06-2021,Mr. Jack Mercado,Ohio,Cincinnati,June,4752.88
+B-26678,East,6934,1226,1,"3,753.83","3,414.54",Electronics,Electronic Games,Debit Card,08-09-2021,Christian Jones,New York,Rochester,September,3753.83
+B-25962,South,4202,1171,3,"3,193.76","2,872.40",Office Supplies,Markers,COD,23-11-2022,Rachel Fisher,Illinois,Peoria,November,9581.28
+B-25962,South,4202,1171,3,"3,475.29","3,070.47",Office Supplies,Markers,COD,31-10-2022,Donald Moore,New York,Rochester,October,10425.87
+B-25962,East,4202,1171,3,"5,129.11","4,714.74",Office Supplies,Markers,COD,06-11-2023,William Wu,Florida,Tampa,November,15387.33
+B-25962,West,4202,1171,3,"4,387.01","3,951.59",Office Supplies,Markers,COD,12-11-2023,Jesus Zuniga,Texas,Houston,November,13161.03
+B-26586,East,2239,828,1,381.92,169,Electronics,Printers,UPI,26-06-2023,Michael Gallegos,California,Los Angeles,June,381.92
+B-26586,South,2239,828,1,"3,045.94","2,693.99",Electronics,Printers,UPI,30-09-2023,Robert Daniels,Illinois,Chicago,September,3045.94
+B-26586,East,2450,1002,4,"3,598.72","3,457.28",Electronics,Phones,Debit Card,26-06-2023,Michael Gallegos,California,Los Angeles,June,14394.88
+B-26586,South,2450,1002,4,"4,255.73","3,756.06",Electronics,Phones,Debit Card,30-09-2023,Robert Daniels,Illinois,Chicago,September,17022.92
+B-26841,South,9827,4208,13,"1,200.96","1,105.05",Furniture,Chairs,Debit Card,12-09-2020,Jill Jones,New York,New York City,September,15612.48
+B-26841,East,8077,240,15,"4,357.49","4,342.53",Furniture,Sofas,Credit Card,12-09-2020,Jill Jones,New York,New York City,September,65362.35
+B-26284,North,5152,2045,14,"4,864.34","4,781.42",Electronics,Phones,UPI,27-11-2020,Elizabeth Miller,Illinois,Springfield,November,68100.76
+B-26284,East,5152,2045,14,"1,611.92","1,221.74",Electronics,Phones,UPI,25-08-2022,Sabrina Clark,California,Los Angeles,August,22566.88
+B-26284,North,5152,2045,14,"4,647.87","4,418.95",Electronics,Phones,UPI,23-08-2023,Larry Casey,Illinois,Chicago,August,65070.18
+B-26284,South,5152,2045,14,759.32,530.04,Electronics,Phones,UPI,11-10-2023,Daniel Burns,New York,Rochester,October,10630.48
+B-26478,South,2542,190,1,803.71,325.75,Office Supplies,Markers,Credit Card,21-04-2022,James Tanner,Texas,Houston,April,803.71
+B-26679,North,8102,1800,5,"1,150.28",689.66,Office Supplies,Markers,UPI,14-09-2023,Leonard Gonzalez,California,San Francisco,September,5751.4
+B-26679,South,8102,1800,5,498.31,335.82,Office Supplies,Markers,UPI,29-04-2020,Richard Lee,New York,Buffalo,April,2491.55
+B-26679,North,8102,1800,5,"4,345.25","4,232.81",Office Supplies,Markers,UPI,15-12-2020,Matthew Schroeder,Ohio,Cleveland,December,21726.25
+B-26679,North,3234,1274,10,768.06,342.3,Furniture,Tables,EMI,14-09-2023,Leonard Gonzalez,California,San Francisco,September,7680.6
+B-26679,South,3234,1274,10,"1,848.69","1,394.74",Furniture,Tables,EMI,29-04-2020,Richard Lee,New York,Buffalo,April,18486.9
+B-26679,West,3234,1274,10,838.97,563.59,Furniture,Tables,EMI,15-12-2020,Matthew Schroeder,Ohio,Cleveland,December,8389.7
+B-26397,North,6200,2321,18,"1,830.76","1,512.34",Furniture,Tables,Credit Card,11-07-2024,Marcus Flores,California,Los Angeles,July,32953.68
+B-26397,East,6200,2321,18,634.16,498.27,Furniture,Tables,Credit Card,21-09-2024,Tonya Long,Florida,Miami,September,11414.88
+B-25957,East,4470,413,13,"3,759.01","3,356.62",Electronics,Laptops,UPI,02-02-2025,Michael Chambers,California,Los Angeles,February,48867.13
+B-26916,South,916,362,7,"1,029.71",709.97,Office Supplies,Pens,UPI,21-10-2022,Kaylee Glover,Illinois,Springfield,October,7207.97
+B-26916,West,916,362,7,"4,523.36","4,266.64",Office Supplies,Pens,UPI,21-10-2020,Pamela Patterson,California,San Francisco,October,31663.52
+B-26916,South,1165,302,20,"4,134.55","4,095.10",Furniture,Sofas,UPI,21-10-2022,Kaylee Glover,Illinois,Springfield,October,82691
+B-26916,West,1165,302,20,576.44,117.63,Furniture,Sofas,UPI,21-10-2020,Pamela Patterson,California,San Francisco,October,11528.8
+B-26916,North,7846,677,12,"4,795.42","4,483.85",Furniture,Chairs,UPI,21-10-2022,Kaylee Glover,Illinois,Springfield,October,57545.04
+B-26916,North,7846,677,12,297.69,193.27,Furniture,Chairs,UPI,21-10-2020,Pamela Patterson,California,San Francisco,October,3572.28
+B-25925,North,3022,384,1,"1,543.38","1,236.25",Office Supplies,Pens,Credit Card,11-01-2022,Ronald Mckinney,Texas,Austin,January,1543.38
+B-25925,North,3022,384,1,552.29,210.33,Office Supplies,Pens,Credit Card,17-02-2021,James Hart,Illinois,Chicago,February,552.29
+B-25925,East,5266,1111,13,"1,980.06","1,712.43",Electronics,Electronic Games,Debit Card,11-01-2022,Ronald Mckinney,Texas,Austin,January,25740.78
+B-25925,East,5266,1111,13,"2,955.51","2,593.64",Electronics,Electronic Games,Debit Card,17-02-2021,James Hart,Illinois,Chicago,February,38421.63
+B-25602,South,4853,1764,9,"4,288.30","3,993.39",Office Supplies,Pens,Debit Card,06-11-2021,Rhonda Harris,Florida,Orlando,November,38594.7
+B-25602,West,4853,1764,9,"2,197.42","1,723.01",Office Supplies,Pens,Debit Card,30-08-2022,Randy Fisher,Texas,Houston,August,19776.78
+B-26592,North,9832,1270,1,"3,578.49","3,542.18",Office Supplies,Pens,COD,07-10-2022,James Hernandez,California,San Francisco,October,3578.49
+B-26592,North,796,153,15,"1,040.21",978.15,Office Supplies,Pens,Credit Card,07-10-2022,James Hernandez,California,San Francisco,October,15603.15
+B-26251,West,883,127,7,"3,860.56","3,765.46",Furniture,Chairs,COD,04-06-2023,Brenda Murphy,California,San Francisco,June,27023.92
+B-26251,West,4539,1155,8,"1,566.36","1,218.18",Furniture,Bookcases,Debit Card,04-06-2023,Brenda Murphy,California,San Francisco,June,12530.88
+B-26251,South,9659,2226,16,"1,086.89",760.55,Office Supplies,Binders,Debit Card,04-06-2023,Brenda Murphy,California,San Francisco,June,17390.24
+B-25979,West,9562,325,2,"1,414.88",967.77,Electronics,Printers,Debit Card,13-05-2022,Andrew Kirby,California,San Diego,May,2829.76
+B-25437,North,4688,1841,3,"1,320.32",951.21,Electronics,Laptops,Credit Card,23-01-2023,Justin Thomas,California,San Francisco,January,3960.96
+B-25437,North,4688,1841,3,"2,847.76","2,588.67",Electronics,Laptops,Credit Card,25-07-2021,Jillian Johnson MD,California,San Diego,July,8543.28
+B-26986,North,7900,482,4,"4,727.75","4,231.75",Electronics,Phones,COD,08-03-2025,William Martin,Ohio,Columbus,March,18911
+B-25990,North,6967,3257,17,584.44,444.05,Furniture,Bookcases,COD,25-12-2022,Mark Dixon,Ohio,Cincinnati,December,9935.48
+B-25990,North,1091,277,6,"3,967.69","3,549.43",Office Supplies,Paper,COD,25-12-2022,Mark Dixon,Ohio,Cincinnati,December,23806.14
+B-25990,South,6027,1530,2,"3,508.14","3,289.01",Office Supplies,Binders,Credit Card,25-12-2022,Mark Dixon,Ohio,Cincinnati,December,7016.28
+B-25222,North,4852,218,2,"4,696.85","4,368.97",Furniture,Tables,EMI,24-04-2024,Alicia Allen,Texas,Dallas,April,9393.7
+B-25222,South,4852,218,2,"1,624.89","1,258.53",Furniture,Tables,EMI,24-12-2021,Cynthia Meyer,Florida,Tampa,December,3249.78
+B-25222,North,4852,218,2,"2,598.58","2,278.04",Furniture,Tables,EMI,07-09-2023,Brandon Norton,Illinois,Springfield,September,5197.16
+B-26402,East,4314,1453,6,"4,711.70","4,632.85",Furniture,Sofas,COD,10-08-2021,Christina Scott,Florida,Tampa,August,28270.2
+B-26792,East,3288,1477,3,"3,544.02","3,316.97",Office Supplies,Pens,EMI,26-05-2024,Andrew Macias,Texas,Austin,May,10632.06
+B-26792,East,3288,1477,3,"2,259.50","1,974.40",Office Supplies,Pens,EMI,19-02-2022,Alejandro Williams,Illinois,Springfield,February,6778.5
+B-25154,East,3977,813,5,"1,126.52",700.49,Office Supplies,Binders,Credit Card,09-12-2024,Mark Rodriguez,New York,New York City,December,5632.6
+B-26114,South,6252,1377,2,"1,576.69","1,349.30",Electronics,Printers,EMI,01-06-2023,Sarah Montgomery,Illinois,Chicago,June,3153.38
+B-26485,South,9084,3253,12,"3,387.21","2,927.02",Office Supplies,Pens,Debit Card,05-11-2023,Marisa Prince,New York,Buffalo,November,40646.52
+B-26191,West,8994,1481,15,"3,830.71","3,604.93",Electronics,Phones,Credit Card,21-06-2020,James Bonilla,California,San Diego,June,57460.65
+B-26754,North,1089,176,16,944.79,665.89,Office Supplies,Markers,EMI,26-10-2020,Robin Myers,Texas,Dallas,October,15116.64
+B-25953,East,6690,1001,19,"3,418.19","3,018.01",Office Supplies,Binders,UPI,06-06-2022,Nancy Sanchez,Illinois,Springfield,June,64945.61
+B-25953,South,6690,1001,19,"3,069.94","2,774.24",Office Supplies,Binders,UPI,13-11-2021,Sydney Walls,Illinois,Chicago,November,58328.86
+B-25953,North,4985,1920,10,"3,074.59","2,594.08",Furniture,Bookcases,Credit Card,06-06-2022,Nancy Sanchez,Illinois,Springfield,June,30745.9
+B-25953,North,4985,1920,10,"3,799.67","3,466.11",Furniture,Bookcases,Credit Card,13-11-2021,Sydney Walls,Illinois,Chicago,November,37996.7
+B-26516,South,8590,3565,15,"4,461.51","4,195.38",Electronics,Electronic Games,EMI,11-11-2021,Deborah Hoffman,Florida,Miami,November,66922.65
+B-26516,East,6973,3038,10,"1,670.36","1,648.80",Furniture,Tables,COD,11-11-2021,Deborah Hoffman,Florida,Miami,November,16703.6
+B-26843,West,4591,1941,19,"4,663.34","4,450.61",Electronics,Printers,EMI,31-07-2021,Megan Williams,Texas,Dallas,July,88603.46
+B-26843,North,9612,2572,17,"1,001.77",845.14,Office Supplies,Pens,Credit Card,31-07-2021,Megan Williams,Texas,Dallas,July,17030.09
+B-26167,West,5343,655,1,"1,283.04",906.47,Furniture,Chairs,EMI,13-04-2024,Shane Clark,California,San Diego,April,1283.04
+B-26972,East,6956,318,20,"1,482.58","1,370.52",Office Supplies,Markers,Debit Card,19-04-2022,Steven Haynes,Illinois,Springfield,April,29651.6
+B-25673,East,5306,2405,17,752.24,641.68,Furniture,Tables,EMI,23-03-2024,Kimberly Fuller,New York,Buffalo,March,12788.08
+B-26587,West,8982,448,17,"1,292.94","1,190.08",Furniture,Sofas,UPI,07-05-2021,Angela Lyons,New York,New York City,May,21979.98
+B-26587,East,4826,562,5,648.29,576.74,Office Supplies,Paper,Debit Card,07-05-2021,Angela Lyons,New York,New York City,May,3241.45
+B-26668,North,972,106,15,"4,280.06","4,117.67",Office Supplies,Pens,EMI,06-05-2022,Betty Tucker,Ohio,Cincinnati,May,64200.9
+B-26906,West,3665,802,4,"1,182.00",737.9,Office Supplies,Markers,Credit Card,09-08-2021,Brianna Hunt,Florida,Miami,August,4728
+B-26906,East,3665,802,4,"4,138.83","3,749.12",Office Supplies,Markers,Credit Card,09-02-2025,Cathy Clark,Florida,Tampa,February,16555.32
+B-25226,West,9808,2117,2,657.44,287.17,Office Supplies,Pens,UPI,23-04-2024,Nicole Warren,California,Los Angeles,April,1314.88
+B-25166,North,1133,73,17,"5,145.88","4,745.18",Furniture,Chairs,UPI,23-02-2023,Richard Castaneda,Ohio,Cleveland,February,87479.96
+B-25166,East,1133,73,17,"3,712.25","3,570.24",Furniture,Chairs,UPI,06-06-2024,Sarah Torres,California,San Diego,June,63108.25
+B-25166,North,6248,1168,19,528.49,83.64,Furniture,Bookcases,COD,23-02-2023,Richard Castaneda,Ohio,Cleveland,February,10041.31
+B-25166,East,6248,1168,19,"3,908.37","3,831.09",Furniture,Bookcases,COD,06-06-2024,Sarah Torres,California,San Diego,June,74259.03
+B-25454,South,5666,2733,17,"2,769.52","2,594.71",Electronics,Electronic Games,Credit Card,27-01-2025,Vanessa Deleon,Florida,Tampa,January,47081.84
+B-26215,East,4171,1450,18,"4,205.37","3,907.86",Office Supplies,Markers,COD,07-04-2023,Richard Lyons,Texas,Dallas,April,75696.66
+B-25777,West,6236,2839,7,"2,696.78","2,636.36",Electronics,Printers,Credit Card,20-01-2022,Eric Adams,Illinois,Springfield,January,18877.46
+B-25777,East,6236,2839,7,"3,590.83","3,223.07",Electronics,Printers,Credit Card,10-05-2022,Chad Brown,Florida,Orlando,May,25135.81
+B-25383,North,5410,2456,8,"4,142.09","3,942.34",Furniture,Chairs,Credit Card,29-05-2024,Kayla Becker,California,Los Angeles,May,33136.72
+B-25383,North,5410,2456,8,"2,449.64","2,055.28",Furniture,Chairs,Credit Card,04-01-2022,Ashley Freeman,Florida,Tampa,January,19597.12
+B-26409,East,3024,1353,1,314.93,63.41,Furniture,Sofas,Credit Card,02-05-2024,Scott Harris,California,Los Angeles,May,314.93
+B-26409,West,3024,1353,1,"4,355.87","4,257.24",Furniture,Sofas,Credit Card,28-12-2021,John James,Ohio,Columbus,December,4355.87
+B-26684,South,7434,2851,5,"2,305.44","1,935.41",Office Supplies,Markers,UPI,12-12-2022,Jesse Bond,Illinois,Springfield,December,11527.2
+B-26726,West,7213,508,19,"2,638.96","2,505.41",Electronics,Electronic Games,Debit Card,17-08-2023,Brandon Hughes,Texas,Dallas,August,50140.24
+B-26726,South,7213,508,19,338.94,88.44,Electronics,Electronic Games,Debit Card,29-11-2021,Lynn Reynolds,Ohio,Cincinnati,November,6439.86
+B-26726,North,3176,586,9,"2,532.87","2,485.86",Furniture,Tables,EMI,17-08-2023,Brandon Hughes,Texas,Dallas,August,22795.83
+B-26726,West,3176,586,9,"5,245.86","4,933.11",Furniture,Tables,EMI,29-11-2021,Lynn Reynolds,Ohio,Cincinnati,November,47212.74
+B-26136,South,9144,2220,18,"1,763.69","1,427.42",Office Supplies,Binders,Credit Card,13-06-2021,Ronald Good,Florida,Miami,June,31746.42
+B-26098,East,4146,865,19,"2,202.87","2,007.32",Furniture,Tables,EMI,04-07-2022,Kyle Baker,Texas,Houston,July,41854.53
+B-26098,North,3793,875,7,"3,929.26","3,451.59",Furniture,Tables,EMI,04-07-2022,Kyle Baker,Texas,Houston,July,27504.82
+B-25430,East,7169,2385,11,"4,521.57","4,083.23",Furniture,Sofas,COD,27-06-2021,Michael Rivera,California,Los Angeles,June,49737.27
+B-25430,North,4046,417,18,"2,472.98","2,116.09",Furniture,Chairs,Credit Card,27-06-2021,Michael Rivera,California,Los Angeles,June,44513.64
+B-25266,West,4164,905,11,"1,942.55","1,582.86",Electronics,Phones,COD,04-12-2023,Lori Adkins,California,San Diego,December,21368.05
+B-25266,West,5389,2196,5,"4,825.92","4,692.24",Furniture,Tables,UPI,04-12-2023,Lori Adkins,California,San Diego,December,24129.6
+B-25283,North,5448,2204,5,"3,733.71","3,401.87",Furniture,Sofas,COD,09-08-2022,Luis Warner,New York,New York City,August,18668.55
+B-25227,North,4115,1285,1,746.28,639.16,Furniture,Sofas,UPI,08-04-2020,Donald Perry,Florida,Orlando,April,746.28
+B-25227,North,4761,2231,12,471.75,391.19,Furniture,Tables,UPI,08-04-2020,Donald Perry,Florida,Orlando,April,5661
+B-25669,West,5899,2264,6,"2,943.31","2,443.57",Office Supplies,Binders,EMI,20-10-2023,Adam Stevens,New York,Buffalo,October,17659.86
+B-25064,South,6109,3040,9,"1,454.41","1,139.45",Furniture,Chairs,EMI,10-02-2022,Kimberly Johnson,New York,Buffalo,February,13089.69
+B-25064,East,6109,3040,9,"1,528.40","1,307.22",Furniture,Chairs,EMI,05-10-2023,Kelly Jones,New York,Rochester,October,13755.6
+B-25064,East,4628,1491,17,"4,545.78","4,394.58",Electronics,Electronic Games,UPI,10-02-2022,Kimberly Johnson,New York,Buffalo,February,77278.26
+B-25064,West,4628,1491,17,799.27,493.35,Electronics,Electronic Games,UPI,05-10-2023,Kelly Jones,New York,Rochester,October,13587.59
+B-26268,East,4369,584,13,"3,625.35","3,591.05",Office Supplies,Pens,Credit Card,22-09-2022,Ashley Petty,Illinois,Peoria,September,47129.55
+B-26268,North,4369,584,13,"1,448.54","1,392.15",Office Supplies,Pens,Credit Card,03-04-2021,Crystal Ross,Texas,Austin,April,18831.02
+B-25456,South,5632,2358,20,"3,839.72","3,813.62",Furniture,Sofas,Credit Card,03-05-2021,Alexis Duffy,California,Los Angeles,May,76794.4
+B-25456,East,5632,2358,20,"3,880.53","3,625.94",Furniture,Sofas,Credit Card,11-02-2024,Stephanie Sanchez,Florida,Miami,February,77610.6
+B-25456,South,5632,2358,20,390.89,86.59,Furniture,Sofas,Credit Card,04-02-2025,Reginald Espinoza,Ohio,Cleveland,February,7817.8
+B-25495,North,7519,402,14,"2,610.84","2,570.22",Office Supplies,Paper,UPI,12-10-2022,Sandra Hicks,California,San Diego,October,36551.76
+B-25495,East,1564,674,13,"1,103.03",739.63,Electronics,Electronic Games,Debit Card,12-10-2022,Sandra Hicks,California,San Diego,October,14339.39
+B-26552,West,2804,936,10,"4,460.71","4,337.82",Electronics,Electronic Games,Credit Card,06-02-2022,Olivia Orozco,Texas,Austin,February,44607.1
+B-26552,South,2804,936,10,"4,710.10","4,364.35",Electronics,Electronic Games,Credit Card,09-11-2020,Larry Moore,Florida,Tampa,November,47101
+B-26552,North,2804,936,10,"2,611.94","2,120.81",Electronics,Electronic Games,Credit Card,03-05-2023,Mrs. Rachel Cannon DDS,Florida,Tampa,May,26119.4
+B-25203,South,2321,505,6,"2,598.40","2,249.76",Furniture,Chairs,EMI,04-10-2022,Daniel Flowers,Illinois,Springfield,October,15590.4
+B-25462,East,5730,482,6,"1,994.01","1,551.25",Electronics,Laptops,COD,21-08-2024,Randy Acosta,Florida,Tampa,August,11964.06
+B-26145,East,7441,867,12,"4,071.82","3,597.20",Furniture,Sofas,COD,20-11-2021,Deborah Williams,Illinois,Chicago,November,48861.84
+B-26145,West,7441,867,12,"2,073.88","1,825.37",Furniture,Sofas,COD,13-05-2020,Robert Michael,Texas,Austin,May,24886.56
+B-25552,North,1732,766,7,"1,729.71","1,375.57",Office Supplies,Binders,UPI,28-02-2023,Danny Ramirez,New York,New York City,February,12107.97
+B-25552,North,8788,3944,19,"2,617.00","2,189.54",Office Supplies,Paper,EMI,28-02-2023,Danny Ramirez,New York,New York City,February,49723
+B-26069,West,838,271,11,687.6,502.86,Office Supplies,Markers,EMI,21-01-2021,Stephen Baker,Ohio,Columbus,January,7563.6
+B-26069,West,838,271,11,"3,883.77","3,745.69",Office Supplies,Markers,EMI,28-02-2022,Jeffrey Wilcox,Illinois,Peoria,February,42721.47
+B-26069,North,3577,699,2,586.18,112.35,Furniture,Tables,UPI,21-01-2021,Stephen Baker,Ohio,Columbus,January,1172.36
+B-26069,South,3577,699,2,"3,606.09","3,240.20",Furniture,Tables,UPI,28-02-2022,Jeffrey Wilcox,Illinois,Peoria,February,7212.18
+B-25120,South,7122,1836,6,"1,072.82",955.18,Electronics,Phones,Debit Card,25-04-2024,James Clarke,Texas,Dallas,April,6436.92
+B-25120,West,7122,1836,6,"1,430.45","1,200.40",Electronics,Phones,Debit Card,10-03-2023,Julia Gallagher,Texas,Houston,March,8582.7
+B-25120,South,7122,1836,6,"3,596.64","3,196.38",Electronics,Phones,Debit Card,10-07-2023,Ronald Frey Jr.,New York,New York City,July,21579.84
+B-25120,North,7327,2596,15,"5,243.13","4,965.07",Office Supplies,Markers,Credit Card,25-04-2024,James Clarke,Texas,Dallas,April,78646.95
+B-25120,East,7327,2596,15,"4,228.18","3,899.70",Office Supplies,Markers,Credit Card,10-03-2023,Julia Gallagher,Texas,Houston,March,63422.7
+B-25120,East,7327,2596,15,"1,547.26","1,167.91",Office Supplies,Markers,Credit Card,10-07-2023,Ronald Frey Jr.,New York,New York City,July,23208.9
+B-26146,South,2239,1094,18,"1,236.10",921.32,Electronics,Printers,COD,28-07-2024,Megan Charles,Florida,Tampa,July,22249.8
+B-26146,West,4932,1153,1,"4,612.49","4,337.85",Office Supplies,Markers,COD,28-07-2024,Megan Charles,Florida,Tampa,July,4612.49
+B-25549,West,4609,1084,8,"2,626.02","2,248.71",Electronics,Printers,UPI,30-07-2023,Amy Duran MD,Florida,Orlando,July,21008.16
+B-25549,West,2328,788,4,"1,094.92",728.41,Office Supplies,Paper,UPI,30-07-2023,Amy Duran MD,Florida,Orlando,July,4379.68
+B-25549,West,4734,958,7,"4,636.59","4,317.95",Electronics,Printers,Debit Card,30-07-2023,Amy Duran MD,Florida,Orlando,July,32456.13
+B-25488,West,1388,345,5,"4,275.96","4,089.66",Furniture,Sofas,UPI,05-10-2024,Christopher Thomas,New York,New York City,October,21379.8
+B-25488,South,8555,1638,8,"5,129.19","4,920.34",Electronics,Laptops,Credit Card,05-10-2024,Christopher Thomas,New York,New York City,October,41033.52
+B-26885,East,9024,730,4,"5,038.74","4,553.23",Furniture,Tables,Credit Card,20-02-2024,Peter Castro,Texas,Dallas,February,20154.96
+B-26885,East,2468,418,4,"4,331.43","4,266.36",Electronics,Laptops,Credit Card,20-02-2024,Peter Castro,Texas,Dallas,February,17325.72
+B-25703,South,9438,1801,4,451.81,310.24,Electronics,Electronic Games,COD,19-04-2023,Steven Acosta,Florida,Orlando,April,1807.24
+B-25703,West,9438,1801,4,818.14,566.86,Electronics,Electronic Games,COD,29-10-2023,Lindsay Jackson,Texas,Austin,October,3272.56
+B-25809,South,2685,379,18,"3,286.47","2,866.47",Electronics,Phones,UPI,08-03-2022,Kelly Smith,Ohio,Cleveland,March,59156.46
+B-25809,East,2685,379,18,"2,771.02","2,680.82",Electronics,Phones,UPI,08-12-2022,Sabrina Hartman,Florida,Tampa,December,49878.36
+B-25809,North,9916,4602,14,"2,462.63","2,316.92",Furniture,Chairs,UPI,08-03-2022,Kelly Smith,Ohio,Cleveland,March,34476.82
+B-25809,South,9916,4602,14,"2,056.35","2,014.11",Furniture,Chairs,UPI,08-12-2022,Sabrina Hartman,Florida,Tampa,December,28788.9
+B-25809,West,6184,50,14,"2,540.42","2,184.49",Electronics,Electronic Games,Credit Card,08-03-2022,Kelly Smith,Ohio,Cleveland,March,35565.88
+B-25809,East,6184,50,14,"2,994.74","2,868.02",Electronics,Electronic Games,Credit Card,08-12-2022,Sabrina Hartman,Florida,Tampa,December,41926.36
+B-25809,East,4548,2135,8,260.73,60.28,Office Supplies,Markers,Debit Card,08-03-2022,Kelly Smith,Ohio,Cleveland,March,2085.84
+B-25809,East,4548,2135,8,"1,567.92","1,340.51",Office Supplies,Markers,Debit Card,08-12-2022,Sabrina Hartman,Florida,Tampa,December,12543.36
+B-25477,East,7195,1665,7,"3,062.22","2,615.48",Office Supplies,Markers,COD,27-07-2024,Cynthia Smith,New York,Rochester,July,21435.54
+B-25477,West,7195,1665,7,"3,836.52","3,624.97",Office Supplies,Markers,COD,05-07-2022,Olivia Dickerson,New York,Buffalo,July,26855.64
+B-26018,North,3098,957,18,993.24,912.08,Furniture,Bookcases,COD,04-07-2024,Whitney Stout,Texas,Austin,July,17878.32
+B-25329,East,5412,1192,18,"3,023.97","2,757.06",Furniture,Tables,Credit Card,28-02-2024,Stephanie Flores,California,San Diego,February,54431.46
+B-25329,South,5412,1192,18,"4,068.43","3,586.58",Furniture,Tables,Credit Card,03-01-2025,Gregory English,California,Los Angeles,January,73231.74
+B-25182,North,1397,686,11,"2,558.68","2,250.91",Furniture,Chairs,Credit Card,07-12-2021,Natalie Maxwell,New York,New York City,December,28145.48
+B-25492,East,9279,552,14,675.91,184.05,Furniture,Chairs,EMI,14-12-2021,Tina Blake,New York,Buffalo,December,9462.74
+B-25492,North,9279,552,14,"2,696.02","2,273.88",Furniture,Chairs,EMI,30-11-2020,Clarence Cooke,California,San Francisco,November,37744.28
+B-25492,South,2596,1003,19,"1,545.02","1,517.40",Office Supplies,Paper,Credit Card,14-12-2021,Tina Blake,New York,Buffalo,December,29355.38
+B-25492,East,2596,1003,19,"4,984.39","4,651.77",Office Supplies,Paper,Credit Card,30-11-2020,Clarence Cooke,California,San Francisco,November,94703.41
+B-25517,South,6732,911,19,817.36,666.84,Furniture,Bookcases,EMI,29-12-2021,Tamara Guzman,New York,Buffalo,December,15529.84
+B-25517,West,4495,1408,14,"3,563.97","3,279.76",Office Supplies,Pens,EMI,29-12-2021,Tamara Guzman,New York,Buffalo,December,49895.58
+B-25200,East,9653,2471,6,457.84,310.96,Office Supplies,Paper,UPI,08-07-2024,Marissa Hartman,New York,Buffalo,July,2747.04
+B-26009,East,8945,1728,10,"2,439.49","2,258.54",Furniture,Tables,UPI,10-02-2021,Sara Garcia,Illinois,Peoria,February,24394.9
+B-26580,East,4007,201,13,"3,254.55","2,792.20",Furniture,Bookcases,COD,21-10-2020,Kathryn Rogers,Ohio,Columbus,October,42309.15
+B-26580,East,4007,201,13,"1,636.14","1,524.88",Furniture,Bookcases,COD,17-04-2023,Kyle Dickson,Texas,Dallas,April,21269.82
+B-25679,West,810,231,18,"2,740.93","2,302.62",Furniture,Bookcases,EMI,21-10-2020,Jacob Decker,Florida,Tampa,October,49336.74
+B-26034,East,9789,2071,18,884.51,859.59,Furniture,Bookcases,Debit Card,28-12-2023,Aaron Johnson,New York,Rochester,December,15921.18
+B-26034,North,9229,4090,8,"1,609.94","1,555.41",Electronics,Electronic Games,COD,28-12-2023,Aaron Johnson,New York,Rochester,December,12879.52
+B-25148,East,8141,3968,18,"3,553.27","3,124.48",Office Supplies,Markers,Debit Card,23-12-2022,William Morse,New York,Rochester,December,63958.86
+B-25148,West,8141,3968,18,"1,862.88","1,543.91",Office Supplies,Markers,Debit Card,10-08-2022,Carrie Smith,Illinois,Peoria,August,33531.84
+B-25148,East,1067,251,14,"4,879.88","4,503.73",Furniture,Sofas,EMI,23-12-2022,William Morse,New York,Rochester,December,68318.32
+B-25148,North,1067,251,14,"3,273.22","3,160.61",Furniture,Sofas,EMI,10-08-2022,Carrie Smith,Illinois,Peoria,August,45825.08
+B-25830,West,3839,1415,10,"2,494.48","2,221.31",Office Supplies,Binders,UPI,17-10-2023,Vincent Roth,California,Los Angeles,October,24944.8
+B-25830,West,3839,1415,10,613.09,241.85,Office Supplies,Binders,UPI,28-02-2022,Andrew Benson,Florida,Orlando,February,6130.9
+B-25762,North,2858,482,13,"2,840.14","2,522.76",Electronics,Electronic Games,COD,24-05-2024,Jason Wilson,Texas,Austin,May,36921.82
+B-26794,North,2137,638,12,"4,076.77","3,835.64",Furniture,Bookcases,Debit Card,02-10-2020,Colin Patterson,New York,New York City,October,48921.24
+B-26794,North,2831,1289,12,"1,844.80","1,364.51",Furniture,Chairs,Debit Card,02-10-2020,Colin Patterson,New York,New York City,October,22137.6
+B-25011,North,3913,961,15,"4,384.85","4,043.53",Furniture,Sofas,UPI,10-02-2024,Eric Bates,Ohio,Columbus,February,65772.75
+B-25011,North,3913,961,15,"1,751.24","1,296.44",Furniture,Sofas,UPI,06-02-2021,Steven Keith,California,San Francisco,February,26268.6
+B-25515,West,4468,1940,9,"4,495.13","4,127.54",Office Supplies,Paper,COD,16-03-2022,Seth Rodriguez,Florida,Tampa,March,40456.17
+B-25369,West,1579,602,9,842.46,472.08,Electronics,Laptops,Credit Card,24-05-2020,Lauren Jones,Ohio,Cincinnati,May,7582.14
+B-25369,East,1579,602,9,"4,386.82","4,337.61",Electronics,Laptops,Credit Card,16-02-2025,Thomas Wallace,Texas,Dallas,February,39481.38
+B-25369,East,1579,602,9,"2,707.11","2,520.97",Electronics,Laptops,Credit Card,16-11-2021,Mr. Daniel Wilson,Ohio,Cincinnati,November,24363.99
+B-25369,South,1579,602,9,"1,948.46","1,517.86",Electronics,Laptops,Credit Card,08-09-2024,Julie Smith MD,New York,Rochester,September,17536.14
+B-25369,East,3760,1849,19,"1,486.29","1,362.31",Furniture,Chairs,EMI,24-05-2020,Lauren Jones,Ohio,Cincinnati,May,28239.51
+B-25369,East,3760,1849,19,"2,255.05","2,188.45",Furniture,Chairs,EMI,16-02-2025,Thomas Wallace,Texas,Dallas,February,42845.95
+B-25369,North,3760,1849,19,"5,165.09","4,995.30",Furniture,Chairs,EMI,16-11-2021,Mr. Daniel Wilson,Ohio,Cincinnati,November,98136.71
+B-25369,North,3760,1849,19,"1,258.63","1,140.62",Furniture,Chairs,EMI,08-09-2024,Julie Smith MD,New York,Rochester,September,23913.97
+B-26222,East,8706,3099,14,"1,024.31",560.92,Office Supplies,Pens,Credit Card,29-06-2022,Carol Mitchell,Illinois,Chicago,June,14340.34
+B-26222,South,4708,696,14,"3,381.22","2,945.92",Electronics,Electronic Games,Credit Card,29-06-2022,Carol Mitchell,Illinois,Chicago,June,47337.08
+B-26222,North,8089,3132,17,"2,723.13","2,468.29",Furniture,Chairs,COD,29-06-2022,Carol Mitchell,Illinois,Chicago,June,46293.21
+B-25316,East,5462,673,12,"2,684.83","2,644.77",Electronics,Printers,Debit Card,03-11-2022,John Thompson,Texas,Austin,November,32217.96
+B-25507,East,6392,444,18,"3,711.47","3,351.33",Electronics,Electronic Games,Credit Card,28-11-2023,Debra Rodriguez,Florida,Tampa,November,66806.46
+B-25846,West,8706,1724,3,"1,687.83","1,372.36",Electronics,Electronic Games,Debit Card,25-04-2020,Erin Vasquez,Florida,Orlando,April,5063.49
+B-25763,South,2349,319,4,"5,043.36","4,557.79",Office Supplies,Pens,UPI,18-01-2022,Clayton Lara,Florida,Miami,January,20173.44
+B-25763,West,8220,3882,14,"2,490.47","2,206.58",Furniture,Chairs,UPI,18-01-2022,Clayton Lara,Florida,Miami,January,34866.58
+B-25763,South,2379,279,7,863.81,688.98,Furniture,Chairs,Debit Card,18-01-2022,Clayton Lara,Florida,Miami,January,6046.67
+B-25763,North,7377,2049,4,"3,988.70","3,724.38",Office Supplies,Markers,UPI,18-01-2022,Clayton Lara,Florida,Miami,January,15954.8
+B-25465,South,717,158,16,"3,723.21","3,233.37",Furniture,Tables,Credit Card,23-03-2022,Tony Ray,Ohio,Cleveland,March,59571.36
+B-25465,East,717,158,16,"1,964.15","1,612.93",Furniture,Tables,Credit Card,24-06-2020,Steven Frey,Florida,Miami,June,31426.4
+B-25465,East,717,158,16,"3,465.79","3,126.52",Furniture,Tables,Credit Card,23-12-2022,Stephanie Leonard,New York,Buffalo,December,55452.64
+B-25465,South,717,158,16,"1,266.25","1,138.32",Furniture,Tables,Credit Card,24-11-2024,Crystal Chambers,New York,New York City,November,20260
+B-25465,South,717,158,16,"2,626.32","2,251.95",Furniture,Tables,Credit Card,06-11-2020,Robert White,Florida,Orlando,November,42021.12
+B-25465,South,717,158,16,"4,879.72","4,502.09",Furniture,Tables,Credit Card,24-10-2023,Sylvia Barron,New York,Rochester,October,78075.52
+B-25465,West,508,177,17,876.46,710.99,Furniture,Sofas,UPI,23-03-2022,Tony Ray,Ohio,Cleveland,March,14899.82
+B-25465,South,508,177,17,"2,211.17","1,964.15",Furniture,Sofas,UPI,24-06-2020,Steven Frey,Florida,Miami,June,37589.89
+B-25465,North,508,177,17,"4,269.02","4,114.66",Furniture,Sofas,UPI,23-12-2022,Stephanie Leonard,New York,Buffalo,December,72573.34
+B-25465,West,508,177,17,"4,985.75","4,848.98",Furniture,Sofas,UPI,24-11-2024,Crystal Chambers,New York,New York City,November,84757.75
+B-25465,West,508,177,17,"2,319.62","2,296.93",Furniture,Sofas,UPI,06-11-2020,Robert White,Florida,Orlando,November,39433.54
+B-25465,South,508,177,17,"2,709.40","2,559.65",Furniture,Sofas,UPI,24-10-2023,Sylvia Barron,New York,Rochester,October,46059.8
+B-26352,North,9382,1085,3,"3,163.70","2,882.25",Electronics,Printers,Debit Card,18-07-2023,Marcus Brown,Illinois,Chicago,July,9491.1
+B-26352,West,9382,1085,3,"4,675.90","4,665.12",Electronics,Printers,Debit Card,16-05-2022,Annette Pierce,New York,Rochester,May,14027.7
+B-26352,East,4936,576,19,"4,446.90","4,298.12",Furniture,Tables,COD,18-07-2023,Marcus Brown,Illinois,Chicago,July,84491.1
+B-26352,West,4936,576,19,"1,336.37",894.48,Furniture,Tables,COD,16-05-2022,Annette Pierce,New York,Rochester,May,25391.03
+B-26528,South,2663,64,19,"2,512.84","2,211.95",Furniture,Sofas,COD,16-06-2024,Donald Hernandez,California,San Francisco,June,47743.96
+B-26528,North,2663,64,19,"2,654.65","2,346.80",Furniture,Sofas,COD,23-10-2021,Megan Davis,Ohio,Cleveland,October,50438.35
+B-26670,South,5151,1680,5,"4,163.68","3,956.03",Electronics,Printers,EMI,22-10-2022,Robert Brooks,Texas,Houston,October,20818.4
+B-25331,East,2514,95,8,"3,375.79","3,034.32",Office Supplies,Pens,UPI,17-07-2023,Miguel Alvarez,New York,Rochester,July,27006.32
+B-25832,East,6129,2976,2,"3,391.46","3,288.39",Electronics,Laptops,EMI,24-02-2025,Jennifer Arnold,New York,New York City,February,6782.92
+B-25832,East,4395,1663,3,"5,402.28","4,991.09",Furniture,Bookcases,COD,24-02-2025,Jennifer Arnold,New York,New York City,February,16206.84
+B-25897,South,5393,2642,8,488.23,421.05,Furniture,Chairs,UPI,07-03-2021,Jessica Blankenship,Ohio,Cincinnati,March,3905.84
+B-25713,West,2280,509,8,"1,485.34","1,153.90",Electronics,Phones,Credit Card,03-01-2021,Peggy Campos,New York,Buffalo,January,11882.72
+B-25065,South,6596,1439,9,"2,246.24","2,069.08",Office Supplies,Paper,Debit Card,03-05-2023,Craig Ortega,Ohio,Cincinnati,May,20216.16
+B-25949,North,4510,1896,5,"2,147.80","1,771.52",Office Supplies,Paper,EMI,25-10-2023,Johnny Simon,California,Los Angeles,October,10739
+B-26033,West,6077,2378,18,436.53,157.15,Electronics,Phones,COD,21-08-2022,Keith Brooks,New York,New York City,August,7857.54
+B-26017,East,5379,2510,17,735.95,504.3,Electronics,Printers,COD,16-04-2022,Jason Martinez,Ohio,Columbus,April,12511.15
+B-26926,South,4629,1660,16,"3,513.74","3,420.72",Office Supplies,Markers,EMI,02-04-2023,Steven Herrera,California,San Diego,April,56219.84
+B-26258,East,2710,555,20,"4,724.70","4,402.66",Electronics,Laptops,Debit Card,21-10-2024,Beverly Lamb,Illinois,Chicago,October,94494
+B-26258,East,3224,1018,14,"3,083.06","2,595.42",Office Supplies,Binders,UPI,21-10-2024,Beverly Lamb,Illinois,Chicago,October,43162.84
+B-26240,North,8042,936,15,"3,133.55","2,719.00",Office Supplies,Markers,EMI,09-07-2021,Michael Williams,Illinois,Springfield,July,47003.25
+B-26240,West,8042,936,15,"1,352.11","1,312.71",Office Supplies,Markers,EMI,08-04-2022,Zachary Carpenter,California,Los Angeles,April,20281.65
+B-26922,North,3957,151,10,"4,045.34","3,850.99",Office Supplies,Binders,EMI,30-04-2022,Timothy Baker,Texas,Austin,April,40453.4
+B-26894,North,8769,3178,16,"4,234.92","3,771.38",Office Supplies,Markers,Debit Card,20-01-2023,Adam James,Illinois,Chicago,January,67758.72
+B-25330,North,2957,917,16,"3,218.90","2,962.41",Office Supplies,Pens,Debit Card,17-11-2024,Katrina Wood,Illinois,Chicago,November,51502.4
+B-26288,East,5344,2607,6,"1,437.12","1,102.69",Office Supplies,Paper,Debit Card,23-04-2022,James Murray,Texas,Dallas,April,8622.72
+B-26288,North,5344,2607,6,987.41,530.24,Office Supplies,Paper,Debit Card,18-02-2025,Mr. Nathaniel Reeves,New York,Rochester,February,5924.46
+B-25228,North,6061,2121,19,806.14,367.98,Electronics,Laptops,EMI,27-05-2021,Jodi Wood,Ohio,Cleveland,May,15316.66
+B-25228,West,6061,2121,19,"3,239.74","2,983.85",Electronics,Laptops,EMI,17-01-2022,Dr. Thomas Peterson,California,San Diego,January,61555.06
+B-26457,West,5376,1928,7,"4,358.37","4,133.92",Furniture,Tables,Credit Card,15-01-2025,Mario Hall,New York,New York City,January,30508.59
+B-25790,North,2792,1008,8,"4,475.19","4,298.74",Electronics,Printers,COD,14-02-2021,Justin Rosales,Florida,Miami,February,35801.52
+B-25868,West,2944,249,5,"2,707.25","2,344.93",Office Supplies,Binders,Credit Card,31-08-2024,Autumn Lee,Ohio,Columbus,August,13536.25
+B-25868,West,2944,249,5,"4,082.76","3,932.14",Office Supplies,Binders,Credit Card,26-12-2022,Victoria Duran,Texas,Dallas,December,20413.8
+B-25381,North,4220,945,13,"4,869.50","4,737.06",Office Supplies,Markers,EMI,21-03-2024,Barry Garcia,Illinois,Springfield,March,63303.5
+B-25381,East,4220,945,13,"1,596.65","1,412.09",Office Supplies,Markers,EMI,15-12-2020,Dawn Webb,Illinois,Peoria,December,20756.45
+B-25153,North,8526,1704,4,"2,116.74","2,019.90",Office Supplies,Binders,Debit Card,21-03-2023,Patricia Sanford,Texas,Austin,March,8466.96
+B-26576,West,8218,1430,19,"5,011.43","4,660.82",Furniture,Bookcases,Credit Card,08-06-2023,William Walters,California,San Francisco,June,95217.17
+B-26526,East,599,265,4,"2,036.20","1,724.24",Electronics,Phones,Credit Card,17-07-2022,Emma Scott,New York,Buffalo,July,8144.8
+B-26526,South,599,265,4,"4,820.30","4,573.69",Electronics,Phones,Credit Card,05-12-2024,Sabrina Buckley,New York,Rochester,December,19281.2
+B-26526,East,2727,543,10,"5,107.43","4,906.17",Furniture,Bookcases,Credit Card,17-07-2022,Emma Scott,New York,Buffalo,July,51074.3
+B-26526,West,2727,543,10,"3,781.40","3,325.96",Furniture,Bookcases,Credit Card,05-12-2024,Sabrina Buckley,New York,Rochester,December,37814
+B-25819,East,2589,605,11,"4,117.88","4,093.61",Office Supplies,Pens,EMI,02-11-2023,Robert Rojas,California,San Francisco,November,45296.68
+B-25819,North,2589,605,11,"4,147.11","3,760.25",Office Supplies,Pens,EMI,05-10-2024,Eric Johnson,Ohio,Cleveland,October,45618.21
+B-25698,South,3776,1100,9,"3,964.63","3,512.69",Electronics,Electronic Games,EMI,13-11-2022,Heather Parker,Texas,Austin,November,35681.67
+B-25698,South,3776,1100,9,"1,798.02","1,569.31",Electronics,Electronic Games,EMI,28-12-2022,Thomas Matthews,Illinois,Peoria,December,16182.18
+B-26820,South,5402,1666,12,612.46,332.62,Furniture,Bookcases,EMI,26-02-2025,Kimberly Beard,Ohio,Cleveland,February,7349.52
+B-25396,West,5165,885,16,"2,220.90","1,748.11",Office Supplies,Pens,EMI,12-11-2022,Lydia Donovan,Illinois,Peoria,November,35534.4
+B-25396,West,4863,2394,4,"3,465.35","3,351.33",Furniture,Bookcases,EMI,12-11-2022,Lydia Donovan,Illinois,Peoria,November,13861.4
+B-25529,South,1626,258,15,822.39,557.52,Office Supplies,Pens,EMI,07-06-2021,Edward Johnson,Florida,Orlando,June,12335.85
+B-26501,East,8851,3962,7,351.6,108.99,Furniture,Tables,EMI,26-09-2020,Ricky Smith,Florida,Miami,September,2461.2
+B-26910,South,9680,3295,9,878.09,741.48,Furniture,Tables,COD,29-04-2024,Mr. Ralph Garcia Jr.,New York,Rochester,April,7902.81
+B-26910,East,8468,3666,8,"4,004.00","3,592.89",Office Supplies,Pens,UPI,29-04-2024,Mr. Ralph Garcia Jr.,New York,Rochester,April,32032
+B-26910,East,4441,314,14,"5,316.13","4,865.33",Furniture,Chairs,Debit Card,29-04-2024,Mr. Ralph Garcia Jr.,New York,Rochester,April,74425.82
+B-25978,West,6622,2673,8,"5,309.32","4,916.17",Furniture,Sofas,COD,10-04-2024,Malik Walker,New York,New York City,April,42474.56
+B-26537,East,3260,207,17,"2,600.93","2,495.20",Furniture,Tables,UPI,21-12-2023,Tanya Walker,California,San Diego,December,44215.81
+B-25881,South,8709,2322,8,"4,405.80","4,353.29",Furniture,Tables,Debit Card,02-05-2024,Sherri Ferguson DVM,Texas,Austin,May,35246.4
+B-25881,West,8709,2322,8,"4,003.96","3,697.29",Furniture,Tables,Debit Card,21-11-2024,Kristin Hart,California,San Francisco,November,32031.68
+B-25237,North,5250,187,1,"2,568.13","2,530.15",Office Supplies,Binders,COD,17-03-2022,Jim Johnson,Ohio,Cincinnati,March,2568.13
+B-25237,North,5250,187,1,"3,224.84","2,885.16",Office Supplies,Binders,COD,14-05-2023,David Hamilton,Texas,Houston,May,3224.84
+B-26122,West,4116,921,20,999.18,729.27,Office Supplies,Paper,UPI,07-10-2024,Michael Jimenez,California,Los Angeles,October,19983.6
+B-26122,South,4116,921,20,"5,026.19","4,691.42",Office Supplies,Paper,UPI,08-09-2020,Angela Norman,Illinois,Springfield,September,100523.8
+B-25709,North,1109,418,15,"2,091.23","1,792.05",Office Supplies,Paper,UPI,19-08-2021,Denise Mcdaniel,California,Los Angeles,August,31368.45
+B-26656,North,3573,562,7,"2,475.56","2,258.44",Office Supplies,Pens,EMI,12-10-2022,Michael Rodriguez,New York,Rochester,October,17328.92
+B-26656,East,3573,562,7,"3,483.15","3,374.72",Office Supplies,Pens,EMI,23-05-2020,Matthew Huff,California,San Diego,May,24382.05
+B-26656,East,3573,562,7,"1,862.61","1,702.82",Office Supplies,Pens,EMI,18-04-2020,Linda Little,Florida,Tampa,April,13038.27
+B-26656,South,8055,661,10,"1,575.59","1,308.58",Electronics,Phones,EMI,12-10-2022,Michael Rodriguez,New York,Rochester,October,15755.9
+B-26656,West,8055,661,10,"3,503.11","3,173.69",Electronics,Phones,EMI,23-05-2020,Matthew Huff,California,San Diego,May,35031.1
+B-26656,South,8055,661,10,565.62,173.67,Electronics,Phones,EMI,18-04-2020,Linda Little,Florida,Tampa,April,5656.2
+B-25801,West,6829,2609,2,"4,003.50","3,617.59",Electronics,Laptops,EMI,04-06-2022,Kerri Andrews,California,San Francisco,June,8007
+B-25801,North,6390,3089,12,"3,081.04","2,594.42",Office Supplies,Paper,COD,04-06-2022,Kerri Andrews,California,San Francisco,June,36972.48
+B-25006,East,5831,1574,17,"3,198.54","3,048.48",Office Supplies,Pens,Debit Card,16-11-2022,Jeffrey Johnson III,California,San Francisco,November,54375.18
+B-25006,South,5831,1574,17,"3,222.65","3,177.81",Office Supplies,Pens,Debit Card,18-07-2024,Daniel Dixon,California,San Diego,July,54785.05
+B-25006,South,5831,1574,17,"2,838.27","2,658.90",Office Supplies,Pens,Debit Card,16-07-2023,Tiffany Robinson,Florida,Miami,July,48250.59
+B-26106,West,7952,3865,8,"3,307.75","2,933.54",Furniture,Sofas,Debit Card,10-08-2020,Mr. Gregg Sawyer,Illinois,Peoria,August,26462
+B-25789,West,3659,379,5,"3,659.42","3,434.75",Furniture,Bookcases,UPI,22-06-2024,John Silva,California,Los Angeles,June,18297.1
+B-26292,South,4183,1159,4,"4,188.66","3,777.94",Office Supplies,Pens,Debit Card,13-07-2020,Nathan Moss,Illinois,Springfield,July,16754.64
+B-25895,West,7478,1381,11,"3,930.06","3,650.89",Electronics,Phones,EMI,16-04-2024,Donald Medina,Texas,Houston,April,43230.66
+B-25813,South,702,238,9,"4,820.20","4,354.60",Electronics,Phones,COD,13-03-2021,Charles Henderson,Florida,Tampa,March,43381.8
+B-26863,South,4037,1494,15,"1,462.19",987.74,Furniture,Chairs,EMI,01-04-2023,Brenda Davis,California,San Francisco,April,21932.85
+B-25759,South,5014,2332,2,"2,079.64","2,035.68",Furniture,Chairs,COD,10-11-2020,Leah Calderon,Illinois,Chicago,November,4159.28
+B-26357,North,9879,4930,15,"4,975.23","4,741.59",Electronics,Laptops,Debit Card,08-06-2023,Brandi Vasquez,New York,Rochester,June,74628.45
+B-26819,West,8762,3502,1,"2,321.87","2,013.12",Electronics,Phones,Debit Card,17-08-2021,Debra Richards,Florida,Tampa,August,2321.87
+B-25502,East,8490,800,1,803.49,668.11,Office Supplies,Pens,EMI,24-05-2020,Tammy Day,New York,New York City,May,803.49
+B-25258,East,6951,164,10,"2,860.42","2,650.95",Furniture,Sofas,UPI,12-08-2021,Sheila Clay,New York,Buffalo,August,28604.2
+B-26878,West,1078,309,3,934.04,591.98,Electronics,Phones,Credit Card,03-09-2022,Nicholas Flores,Ohio,Cleveland,September,2802.12
+B-26878,South,1078,309,3,"1,175.22","1,054.12",Electronics,Phones,Credit Card,01-10-2020,Jasmin Jones,Illinois,Chicago,October,3525.66
+B-25170,East,8560,2166,19,"5,296.65","4,991.68",Office Supplies,Binders,EMI,27-05-2022,Matthew Gardner,Florida,Tampa,May,100636.35
+B-25170,East,1031,318,20,"3,081.50","2,729.75",Electronics,Electronic Games,UPI,27-05-2022,Matthew Gardner,Florida,Tampa,May,61630
+B-26842,West,6402,2770,19,"1,510.43","1,456.09",Office Supplies,Markers,Debit Card,10-03-2024,Joseph Perkins,Florida,Orlando,March,28698.17
+B-26842,East,6402,2770,19,"5,227.93","4,974.14",Office Supplies,Markers,Debit Card,05-10-2023,Ashley Adams MD,Florida,Orlando,October,99330.67
+B-26842,South,5916,1594,19,"4,973.38","4,834.47",Electronics,Printers,Debit Card,10-03-2024,Joseph Perkins,Florida,Orlando,March,94494.22
+B-26842,West,5916,1594,19,"2,596.61","2,231.66",Electronics,Printers,Debit Card,05-10-2023,Ashley Adams MD,Florida,Orlando,October,49335.59
+B-26599,South,4015,1751,15,"1,441.88","1,339.00",Furniture,Chairs,Debit Card,28-08-2022,Cheryl Stevens,California,San Francisco,August,21628.2
+B-26599,East,4015,1751,15,"4,647.28","4,200.08",Furniture,Chairs,Debit Card,08-09-2020,Jorge George,New York,New York City,September,69709.2
+B-25705,East,9335,557,11,"3,813.48","3,592.32",Electronics,Electronic Games,COD,27-04-2021,Ann Mooney,California,Los Angeles,April,41948.28
+B-26366,South,4706,594,11,"3,557.38","3,450.36",Office Supplies,Binders,COD,21-08-2021,James Mendoza,Ohio,Cleveland,August,39131.18
+B-26366,North,4706,594,11,"4,695.54","4,470.91",Office Supplies,Binders,COD,16-05-2021,Kaitlin Garrison,Ohio,Columbus,May,51650.94
+B-26366,East,6584,371,6,"3,672.89","3,462.61",Office Supplies,Markers,UPI,21-08-2021,James Mendoza,Ohio,Cleveland,August,22037.34
+B-26366,North,6584,371,6,"1,674.97","1,454.80",Office Supplies,Markers,UPI,16-05-2021,Kaitlin Garrison,Ohio,Columbus,May,10049.82
+B-26116,East,6389,734,1,"3,781.55","3,484.62",Furniture,Sofas,EMI,15-01-2022,Jeremy Jackson,Texas,Dallas,January,3781.55
+B-26443,North,9869,4299,12,"1,829.16","1,563.78",Electronics,Printers,Debit Card,21-03-2023,Dale Craig,California,San Diego,March,21949.92
+B-26443,North,9869,4299,12,"3,891.62","3,808.23",Electronics,Printers,Debit Card,28-12-2023,Joseph Hooper,New York,Buffalo,December,46699.44
+B-25955,North,655,297,4,"3,159.88","3,117.75",Office Supplies,Markers,Debit Card,15-02-2022,Alexander Adams,New York,Buffalo,February,12639.52
+B-25955,South,655,297,4,800.6,433.19,Office Supplies,Markers,Debit Card,30-11-2023,Ashlee Mills,Florida,Orlando,November,3202.4
+B-26383,North,798,308,10,"2,872.80","2,588.54",Electronics,Phones,Debit Card,12-01-2023,Brittany Jenkins,New York,Buffalo,January,28728
+B-26383,North,798,308,10,"1,935.25","1,749.34",Electronics,Phones,Debit Card,19-05-2023,Eddie Gonzales,Ohio,Cleveland,May,19352.5
+B-26383,North,7967,2504,13,"2,082.52","1,676.42",Electronics,Printers,EMI,12-01-2023,Brittany Jenkins,New York,Buffalo,January,27072.76
+B-26383,East,7967,2504,13,"3,231.32","3,031.17",Electronics,Printers,EMI,19-05-2023,Eddie Gonzales,Ohio,Cleveland,May,42007.16
+B-26999,North,3756,1318,5,"2,045.53","1,645.51",Furniture,Tables,UPI,19-02-2024,Edward Valencia,Florida,Miami,February,10227.65
+B-26712,East,5196,2477,1,"4,055.44","3,895.62",Office Supplies,Markers,UPI,01-12-2021,Emma Bruce,Texas,Austin,December,4055.44
+B-26712,North,6586,1794,19,446.11,400.42,Furniture,Bookcases,Debit Card,01-12-2021,Emma Bruce,Texas,Austin,December,8476.09
+B-26066,North,6673,950,19,"3,785.91","3,318.92",Office Supplies,Markers,EMI,19-12-2024,Carl Wade DDS,New York,Buffalo,December,71932.29
+B-25996,South,714,232,14,"4,258.84","4,055.51",Furniture,Tables,UPI,18-01-2023,Brandon Alvarado,Ohio,Columbus,January,59623.76
+B-25996,East,714,232,14,"3,778.94","3,380.52",Furniture,Tables,UPI,23-12-2020,Jennifer Clark,Texas,Austin,December,52905.16
+B-26924,North,1083,501,6,"2,658.06","2,511.28",Office Supplies,Pens,COD,28-02-2021,David Johnson,Texas,Austin,February,15948.36
+B-25541,East,2401,1163,10,"5,080.74","4,754.02",Furniture,Bookcases,UPI,04-05-2023,April Marquez,Ohio,Cleveland,May,50807.4
+B-25541,East,2401,1163,10,"1,972.62","1,534.70",Furniture,Bookcases,UPI,22-04-2020,Joseph Guerrero,California,Los Angeles,April,19726.2
+B-25541,West,2401,1163,10,175.29,144.88,Furniture,Bookcases,UPI,13-08-2021,Michael Hanson,New York,Rochester,August,1752.9
+B-25541,South,1045,267,11,"2,605.36","2,188.35",Electronics,Phones,Debit Card,04-05-2023,April Marquez,Ohio,Cleveland,May,28658.96
+B-25541,South,1045,267,11,503.36,213.41,Electronics,Phones,Debit Card,22-04-2020,Joseph Guerrero,California,Los Angeles,April,5536.96
+B-25541,South,1045,267,11,"5,079.65","4,771.99",Electronics,Phones,Debit Card,13-08-2021,Michael Hanson,New York,Rochester,August,55876.15
+B-25196,West,7806,1127,1,"1,355.44","1,089.09",Office Supplies,Markers,Credit Card,20-07-2023,William Hill,Texas,Dallas,July,1355.44
+B-25855,West,5263,1743,19,"4,393.68","3,955.19",Furniture,Sofas,Credit Card,28-08-2022,Kelsey Huber,Florida,Miami,August,83479.92
+B-25071,South,6147,2526,6,"3,915.41","3,884.13",Office Supplies,Pens,Debit Card,14-03-2023,Hailey Chandler,Texas,Dallas,March,23492.46
+B-26159,West,7484,2871,15,"1,265.66","1,127.76",Electronics,Phones,UPI,07-11-2023,Cheyenne Rose,Florida,Orlando,November,18984.9
+B-26159,West,7484,2871,15,"3,564.19","3,125.07",Electronics,Phones,UPI,16-04-2024,Richard Petersen,Illinois,Chicago,April,53462.85
+B-26159,West,7700,2712,1,666.64,287.99,Furniture,Sofas,Credit Card,07-11-2023,Cheyenne Rose,Florida,Orlando,November,666.64
+B-26159,South,7700,2712,1,"2,462.34","2,443.69",Furniture,Sofas,Credit Card,16-04-2024,Richard Petersen,Illinois,Chicago,April,2462.34
+B-26228,South,8537,3586,13,385.83,122.5,Office Supplies,Markers,UPI,16-09-2022,Kathryn Gray,New York,Rochester,September,5015.79
+B-25888,South,8858,3394,6,"4,879.15","4,609.66",Furniture,Chairs,COD,31-10-2024,Victor Collins,California,San Diego,October,29274.9
+B-25574,West,5313,2037,7,"5,088.06","4,881.63",Electronics,Printers,Debit Card,25-11-2024,Jason Hernandez,California,San Francisco,November,35616.42
+B-25574,South,5313,2037,7,"1,306.02","1,150.30",Electronics,Printers,Debit Card,29-10-2021,Jacob Torres,Texas,Houston,October,9142.14
+B-26938,West,3281,471,7,"1,424.17","1,080.12",Furniture,Sofas,EMI,27-12-2023,Erin Hernandez,California,Los Angeles,December,9969.19
+B-26938,North,3281,471,7,"3,892.73","3,780.91",Furniture,Sofas,EMI,25-06-2023,Jacob Guzman,Illinois,Peoria,June,27249.11
+B-26379,West,8681,2458,9,"1,705.71","1,304.23",Office Supplies,Pens,Credit Card,01-09-2020,Mike Armstrong,New York,New York City,September,15351.39
+B-26623,East,6195,1556,18,"4,884.12","4,480.63",Furniture,Sofas,EMI,01-02-2025,Cindy Rowland,Illinois,Springfield,February,87914.16
+B-25566,South,3877,481,16,"3,104.43","2,890.95",Furniture,Chairs,Debit Card,22-07-2023,Kenneth Matthews,New York,Rochester,July,49670.88
+B-25566,South,3877,481,16,"1,935.29","1,786.35",Furniture,Chairs,Debit Card,04-02-2022,Susan Valdez,New York,New York City,February,30964.64
+B-26740,East,9369,3297,6,"4,320.93","4,171.83",Electronics,Printers,Debit Card,27-09-2023,Stephanie Manning,Florida,Orlando,September,25925.58
+B-26740,West,9369,3297,6,"2,738.68","2,492.36",Electronics,Printers,Debit Card,30-01-2025,Logan Galloway,New York,New York City,January,16432.08
+B-26740,North,8680,4068,20,"4,925.17","4,562.58",Electronics,Printers,Credit Card,27-09-2023,Stephanie Manning,Florida,Orlando,September,98503.4
+B-26740,East,8680,4068,20,"4,829.52","4,643.67",Electronics,Printers,Credit Card,30-01-2025,Logan Galloway,New York,New York City,January,96590.4
+B-26740,East,3067,1475,8,"1,177.75",868.83,Electronics,Laptops,UPI,27-09-2023,Stephanie Manning,Florida,Orlando,September,9422
+B-26740,West,3067,1475,8,258.92,61.5,Electronics,Laptops,UPI,30-01-2025,Logan Galloway,New York,New York City,January,2071.36
+B-25024,South,9002,4197,2,"5,079.68","4,920.46",Office Supplies,Markers,EMI,15-01-2025,Christopher Stone,Ohio,Cincinnati,January,10159.36
+B-25024,West,9002,4197,2,"4,557.56","4,535.38",Office Supplies,Markers,EMI,28-03-2021,Megan Pitts,Ohio,Columbus,March,9115.12
+B-26367,East,7105,2782,19,336.37,324.45,Office Supplies,Pens,COD,25-12-2021,Richard Gardner,Ohio,Columbus,December,6391.03
+B-26353,East,5317,1345,18,"4,294.85","4,173.52",Furniture,Chairs,Debit Card,03-02-2023,Samuel Moore,Ohio,Columbus,February,77307.3
+B-26353,South,5317,1345,18,"2,525.27","2,316.13",Furniture,Chairs,Debit Card,28-04-2023,Robert Stokes,Florida,Orlando,April,45454.86
+B-26353,South,5317,1345,18,"1,758.98","1,331.86",Furniture,Chairs,Debit Card,22-11-2024,Danielle Ramirez,California,San Francisco,November,31661.64
+B-26353,South,6304,766,14,"4,801.06","4,399.80",Furniture,Tables,EMI,03-02-2023,Samuel Moore,Ohio,Columbus,February,67214.84
+B-26353,West,6304,766,14,"1,164.41","1,023.50",Furniture,Tables,EMI,28-04-2023,Robert Stokes,Florida,Orlando,April,16301.74
+B-26353,South,6304,766,14,"4,868.95","4,739.13",Furniture,Tables,EMI,22-11-2024,Danielle Ramirez,California,San Francisco,November,68165.3
+B-25742,East,9565,1691,3,"1,189.22","1,067.83",Office Supplies,Paper,Debit Card,02-07-2024,Taylor White,Illinois,Springfield,July,3567.66
+B-25742,East,8245,324,11,"3,263.96","3,087.73",Office Supplies,Paper,EMI,02-07-2024,Taylor White,Illinois,Springfield,July,35903.56
+B-26965,North,1592,480,13,"1,408.40","1,154.28",Electronics,Laptops,Debit Card,18-01-2022,Jordan Krause,Ohio,Cleveland,January,18309.2
+B-26038,West,8400,267,5,"2,976.01","2,751.06",Electronics,Phones,Debit Card,08-10-2024,Kimberly King,Ohio,Columbus,October,14880.05
+B-26038,North,4963,1254,15,"3,552.63","3,435.68",Office Supplies,Paper,EMI,08-10-2024,Kimberly King,Ohio,Columbus,October,53289.45
+B-25317,East,2472,211,5,"1,065.55",991.63,Electronics,Printers,COD,21-06-2020,Sharon Russell,California,San Diego,June,5327.75
+B-25970,North,9132,3096,14,"2,644.54","2,628.38",Furniture,Chairs,Debit Card,14-12-2023,Kevin Cooper,Florida,Tampa,December,37023.56
+B-25590,East,8305,1577,6,"2,457.29","2,371.85",Office Supplies,Binders,Debit Card,16-12-2020,Darrell Ramos,New York,Rochester,December,14743.74
+B-25580,North,1010,58,19,757.26,401.64,Electronics,Electronic Games,COD,15-03-2025,Dr. Terry Alvarado,Florida,Tampa,March,14387.94
+B-25443,South,4544,1726,9,"4,230.00","4,100.62",Electronics,Phones,EMI,21-08-2024,Kathy Wilson,Texas,Dallas,August,38070
+B-25443,North,5900,1738,20,"1,951.24","1,711.63",Electronics,Phones,UPI,21-08-2024,Kathy Wilson,Texas,Dallas,August,39024.8
+B-25774,South,8861,3381,19,"3,193.92","2,894.18",Office Supplies,Markers,Credit Card,27-05-2021,Brandon Le,California,San Diego,May,60684.48
+B-26505,South,8158,2052,13,"3,042.73","2,598.18",Electronics,Phones,Debit Card,21-09-2020,Mary Wright,Ohio,Cincinnati,September,39555.49
+B-25163,West,3411,1704,14,"3,036.18","2,590.64",Office Supplies,Pens,UPI,11-01-2025,Douglas Reynolds,California,Los Angeles,January,42506.52
+B-26095,South,9406,1137,16,956.16,580.75,Office Supplies,Markers,UPI,20-10-2021,Leroy Harris,Texas,Houston,October,15298.56
+B-26095,South,1156,74,15,"2,173.47","2,146.24",Electronics,Printers,EMI,20-10-2021,Leroy Harris,Texas,Houston,October,32602.05
+B-25768,North,5354,743,10,"2,581.00","2,289.22",Furniture,Bookcases,UPI,19-10-2021,Ricardo Dixon,Illinois,Springfield,October,25810
+B-25328,East,8780,3430,4,"4,076.96","3,681.53",Electronics,Electronic Games,Credit Card,07-07-2024,Debra Smith,Texas,Austin,July,16307.84
+B-25328,West,8780,3430,4,"4,226.56","4,208.09",Electronics,Electronic Games,Credit Card,25-07-2023,Jasmine James,Texas,Austin,July,16906.24
+B-26573,South,6783,3306,8,"3,027.01","2,747.66",Furniture,Sofas,Debit Card,16-04-2020,Felicia Morton,Ohio,Columbus,April,24216.08
+B-25138,West,1778,285,4,909.88,479.58,Office Supplies,Pens,Credit Card,04-07-2020,Sylvia Jenkins,New York,New York City,July,3639.52
+B-26803,North,9399,1949,12,"1,464.71","1,222.40",Electronics,Printers,UPI,16-05-2022,Elizabeth White,New York,Rochester,May,17576.52
+B-26803,South,7957,965,4,878.43,866.42,Furniture,Sofas,Credit Card,16-05-2022,Elizabeth White,New York,Rochester,May,3513.72
+B-25101,North,1638,661,13,682.24,666.84,Furniture,Chairs,EMI,25-11-2023,Steven Steele,Illinois,Springfield,November,8869.12
+B-25827,West,1786,224,4,"2,075.35","1,861.20",Furniture,Tables,COD,17-08-2021,Amanda Ramirez,Texas,Dallas,August,8301.4
+B-25792,North,4751,781,9,"1,271.45","1,185.50",Office Supplies,Paper,EMI,02-07-2023,Kyle Jackson,New York,Buffalo,July,11443.05
+B-25646,West,8979,4477,4,"1,466.18","1,130.60",Office Supplies,Paper,Credit Card,24-08-2020,Sharon Wilkins,Illinois,Chicago,August,5864.72
+B-25043,North,2727,663,8,678.04,320.73,Electronics,Phones,Credit Card,07-11-2022,Austin Hammond,Florida,Miami,November,5424.32
+B-26598,West,1093,397,17,234.63,137.47,Electronics,Printers,Credit Card,27-03-2024,Jessica Barajas,Illinois,Peoria,March,3988.71
+B-26598,East,1093,397,17,"1,004.08",558.7,Electronics,Printers,Credit Card,01-09-2024,Jamie Jimenez,New York,Buffalo,September,17069.36
+B-26598,North,1093,397,17,"1,128.91",902.38,Electronics,Printers,Credit Card,22-02-2022,James Carter,Ohio,Columbus,February,19191.47
+B-26598,North,2636,88,11,"2,263.36","2,183.37",Office Supplies,Paper,Debit Card,27-03-2024,Jessica Barajas,Illinois,Peoria,March,24896.96
+B-26598,East,2636,88,11,"2,961.56","2,577.08",Office Supplies,Paper,Debit Card,01-09-2024,Jamie Jimenez,New York,Buffalo,September,32577.16
+B-26598,East,2636,88,11,"1,143.02",745.93,Office Supplies,Paper,Debit Card,22-02-2022,James Carter,Ohio,Columbus,February,12573.22
+B-26643,North,7344,2251,7,"2,475.93","2,152.68",Electronics,Electronic Games,Debit Card,11-02-2022,John Williams,Florida,Miami,February,17331.51
+B-26643,East,7306,1547,3,"2,169.86","1,741.66",Office Supplies,Paper,COD,11-02-2022,John Williams,Florida,Miami,February,6509.58
+B-26643,South,5832,2588,10,"1,329.26",957.95,Electronics,Printers,COD,11-02-2022,John Williams,Florida,Miami,February,13292.6
+B-25992,West,8572,2041,8,526.14,83.86,Furniture,Tables,EMI,27-05-2021,Alicia Oneill,Illinois,Springfield,May,4209.12
+B-25992,West,8572,2041,8,"2,584.35","2,361.74",Furniture,Tables,EMI,05-07-2023,Rebecca Huff,Illinois,Springfield,July,20674.8
+B-25992,West,8572,2041,8,"3,820.30","3,443.98",Furniture,Tables,EMI,27-10-2020,Diana Scott,California,San Diego,October,30562.4
+B-25992,South,8059,1834,10,"1,669.95","1,170.07",Electronics,Printers,Credit Card,27-05-2021,Alicia Oneill,Illinois,Springfield,May,16699.5
+B-25992,East,8059,1834,10,"1,067.66",702.44,Electronics,Printers,Credit Card,05-07-2023,Rebecca Huff,Illinois,Springfield,July,10676.6
+B-25992,East,8059,1834,10,"4,506.81","4,440.86",Electronics,Printers,Credit Card,27-10-2020,Diana Scott,California,San Diego,October,45068.1
+B-25532,North,3661,436,13,"1,675.35","1,411.37",Furniture,Sofas,EMI,26-01-2023,Brian Young,Texas,Austin,January,21779.55
+B-25564,East,2451,342,8,"1,454.68","1,156.88",Office Supplies,Paper,EMI,06-09-2021,Susan Wright,California,Los Angeles,September,11637.44
+B-25564,North,2451,342,8,"4,387.99","4,292.63",Office Supplies,Paper,EMI,12-11-2021,Kayla Banks,Ohio,Cincinnati,November,35103.92
+B-25564,South,2451,342,8,"4,576.50","4,094.68",Office Supplies,Paper,EMI,30-07-2024,Zachary Pierce,Texas,Houston,July,36612
+B-26543,West,7067,1943,16,"2,365.35","2,269.32",Furniture,Tables,Credit Card,15-03-2022,Nicolas Owen,California,San Francisco,March,37845.6
+B-25976,West,4307,615,3,"2,568.73","2,471.73",Electronics,Electronic Games,UPI,15-03-2024,Martha Carney,New York,New York City,March,7706.19
+B-25976,West,4307,615,3,"1,586.29","1,127.86",Electronics,Electronic Games,UPI,10-11-2020,Francisco Hicks,Illinois,Springfield,November,4758.87
+B-25976,East,5694,1134,5,675.54,437.59,Furniture,Chairs,EMI,15-03-2024,Martha Carney,New York,New York City,March,3377.7
+B-25976,North,5694,1134,5,"2,929.45","2,888.49",Furniture,Chairs,EMI,10-11-2020,Francisco Hicks,Illinois,Springfield,November,14647.25
+B-25929,North,962,298,18,839.92,536.81,Office Supplies,Binders,Credit Card,23-07-2022,Matthew Parker,Illinois,Springfield,July,15118.56
+B-25497,South,2995,220,14,"2,578.80","2,273.91",Furniture,Bookcases,Credit Card,13-09-2024,Paul Bryant,New York,Buffalo,September,36103.2
+B-25497,East,2047,914,5,"4,747.07","4,705.46",Office Supplies,Markers,Debit Card,13-09-2024,Paul Bryant,New York,Buffalo,September,23735.35
+B-26735,South,2078,612,6,"5,253.07","4,766.53",Electronics,Laptops,COD,25-01-2022,Bruce Dennis,Texas,Austin,January,31518.42
+B-25036,North,2737,1253,3,"1,511.26","1,234.69",Electronics,Printers,EMI,19-04-2021,Joseph Bates,New York,New York City,April,4533.78
+B-25971,North,8194,2881,6,"3,423.66","3,139.36",Office Supplies,Paper,Debit Card,18-07-2021,Kelly Pacheco,Texas,Houston,July,20541.96
+B-25441,West,9914,3858,16,"2,661.54","2,396.68",Furniture,Sofas,Credit Card,24-06-2022,Jeffrey Weber,New York,Buffalo,June,42584.64
+B-25441,East,9914,3858,16,"4,693.90","4,384.64",Furniture,Sofas,Credit Card,08-06-2024,Andrew Krueger,New York,Rochester,June,75102.4
+B-25441,North,5470,292,7,"1,533.09","1,393.58",Office Supplies,Pens,Debit Card,24-06-2022,Jeffrey Weber,New York,Buffalo,June,10731.63
+B-25441,West,5470,292,7,219.08,68.33,Office Supplies,Pens,Debit Card,08-06-2024,Andrew Krueger,New York,Rochester,June,1533.56
+B-25441,East,1496,662,17,"1,115.24",854.68,Furniture,Bookcases,UPI,24-06-2022,Jeffrey Weber,New York,Buffalo,June,18959.08
+B-25441,South,1496,662,17,"2,185.42","1,780.14",Furniture,Bookcases,UPI,08-06-2024,Andrew Krueger,New York,Rochester,June,37152.14
+B-25823,East,3228,476,9,"1,647.25","1,612.82",Office Supplies,Paper,COD,29-09-2022,Kathleen Cox,New York,New York City,September,14825.25
+B-25363,East,3918,749,8,"4,272.92","3,967.25",Electronics,Laptops,Credit Card,10-05-2023,Jamie Bradley,California,San Diego,May,34183.36
+B-25363,North,3918,749,8,"3,824.10","3,418.78",Electronics,Laptops,Credit Card,02-05-2020,Robert Martinez,Texas,Houston,May,30592.8
+B-26445,North,9921,1451,15,"1,619.69","1,532.80",Furniture,Sofas,EMI,12-04-2021,Christopher Rogers,Illinois,Chicago,April,24295.35
+B-26724,East,9694,4361,1,"2,333.19","2,315.83",Furniture,Chairs,EMI,04-11-2023,Roberto Parrish,Illinois,Springfield,November,2333.19
+B-25447,North,5028,1553,13,686.25,523.02,Office Supplies,Paper,EMI,04-05-2020,Amber Kennedy,Florida,Tampa,May,8921.25
+B-26904,North,594,67,19,"4,794.01","4,495.82",Office Supplies,Paper,Debit Card,10-09-2023,Maria Davis,New York,Buffalo,September,91086.19
+B-26904,North,594,67,19,"4,758.11","4,680.35",Office Supplies,Paper,Debit Card,05-01-2024,Terry Gilbert,Florida,Miami,January,90404.09
+B-26904,West,594,67,19,"5,118.83","4,900.03",Office Supplies,Paper,Debit Card,08-05-2024,Devon Schmitt,Texas,Austin,May,97257.77
+B-26456,West,5954,2618,11,"4,629.98","4,349.34",Furniture,Tables,COD,30-03-2024,Robert Mosley,Ohio,Cincinnati,March,50929.78
+B-25435,East,3518,1051,3,"1,214.56",911.11,Furniture,Bookcases,UPI,10-09-2020,Paul Scott,California,San Francisco,September,3643.68
+B-25435,North,4157,1874,8,423.13,278.67,Electronics,Laptops,EMI,10-09-2020,Paul Scott,California,San Francisco,September,3385.04
+B-26279,West,3747,410,5,"3,125.01","2,919.00",Office Supplies,Markers,Credit Card,12-07-2020,Kristin Alvarez,Illinois,Springfield,July,15625.05
+B-26279,East,3747,410,5,"4,958.78","4,567.39",Office Supplies,Markers,Credit Card,08-12-2022,Kevin Jackson,New York,Buffalo,December,24793.9
+B-26279,North,3747,410,5,"1,399.09",927.89,Office Supplies,Markers,Credit Card,27-03-2024,Mrs. Lauren Potter DDS,Ohio,Columbus,March,6995.45
+B-26279,South,3747,410,5,517.18,84.86,Office Supplies,Markers,Credit Card,17-02-2023,Jason Brown,Illinois,Chicago,February,2585.9
+B-26279,North,3747,410,5,"4,323.71","4,037.21",Office Supplies,Markers,Credit Card,21-07-2021,Jamie Santos,California,Los Angeles,July,21618.55
+B-26279,North,3194,534,4,641.18,430.14,Office Supplies,Binders,UPI,12-07-2020,Kristin Alvarez,Illinois,Springfield,July,2564.72
+B-26279,West,3194,534,4,"2,270.99","2,097.84",Office Supplies,Binders,UPI,08-12-2022,Kevin Jackson,New York,Buffalo,December,9083.96
+B-26279,East,3194,534,4,"3,481.72","3,410.49",Office Supplies,Binders,UPI,27-03-2024,Mrs. Lauren Potter DDS,Ohio,Columbus,March,13926.88
+B-26279,East,3194,534,4,"1,284.36","1,222.15",Office Supplies,Binders,UPI,17-02-2023,Jason Brown,Illinois,Chicago,February,5137.44
+B-26279,West,3194,534,4,812.91,465.61,Office Supplies,Binders,UPI,21-07-2021,Jamie Santos,California,Los Angeles,July,3251.64
+B-25770,North,8548,2305,1,"3,998.91","3,861.61",Office Supplies,Binders,COD,30-10-2022,James Taylor,Florida,Tampa,October,3998.91
+B-25715,South,6089,139,19,"3,304.15","3,169.37",Furniture,Tables,Debit Card,31-12-2020,Alicia Vincent,Ohio,Cincinnati,December,62778.85
+B-25715,North,6089,139,19,"5,442.15","4,943.03",Furniture,Tables,Debit Card,15-04-2022,Kenneth Adams,Ohio,Cleveland,April,103400.85
+B-25715,North,6089,139,19,"1,856.40","1,754.32",Furniture,Tables,Debit Card,05-04-2023,Shelby Browning,Illinois,Chicago,April,35271.6
+B-25715,South,2586,800,16,438.27,355.72,Furniture,Tables,UPI,31-12-2020,Alicia Vincent,Ohio,Cincinnati,December,7012.32
+B-25715,West,2586,800,16,"3,743.39","3,685.03",Furniture,Tables,UPI,15-04-2022,Kenneth Adams,Ohio,Cleveland,April,59894.24
+B-25715,East,2586,800,16,"2,926.68","2,632.58",Furniture,Tables,UPI,05-04-2023,Shelby Browning,Illinois,Chicago,April,46826.88
